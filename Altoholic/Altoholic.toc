@@ -1,7 +1,7 @@
 ﻿## Interface: 30300
 ## DefaultState: disabled
-## Title: Altoholic
-## Title-zhCN: |cffeedd99 [物品] |r: 全角色统计 Altoholic
+## Title: Altoholic - [|cffb1997fZuldazarWoW|r]
+## Title-zhCN: |cffeedd99 [物品] |r: 全角色统计 Altoholic - [|cffb1997fZuldazarWoW|r]
 ## X-Curse-Packaged-Version: r90
 ## X-Curse-Project-Name: Altoholic
 ## X-Curse-Project-ID: altoholic

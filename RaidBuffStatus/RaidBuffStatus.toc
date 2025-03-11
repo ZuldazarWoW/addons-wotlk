@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: RaidBuffStatus
+## Title: RaidBuffStatus - [|cffb1997fZuldazarWoW|r]
 ## Author: Danielbarron
 ## Version: 3.249
 ## X-Build: $Revision: 337 $

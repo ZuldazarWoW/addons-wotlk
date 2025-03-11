@@ -5,7 +5,7 @@
 ## X-Curse-Project-ID: bartender4
 ## X-Curse-Repository-ID: wow/bartender4/mainline
 
-## Title: Bartender4
+## Title: Bartender4 - [|cffb1997fZuldazarWoW|r]
 ## Notes: Simple and Advanced combined - Bartender4 ActionBar AddOn
 
 ## Version: 4.4.2-12-g94f3b58

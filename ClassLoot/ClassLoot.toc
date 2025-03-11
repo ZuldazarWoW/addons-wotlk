@@ -1,6 +1,6 @@
 ﻿## Interface: 30300
 ## DefaultState: disabled
-## Title: ClassLoot
+## Title: ClassLoot - [|cffb1997fZuldazarWoW|r]
 ## Notes: Kaliban's Class Loot List Star Display
 ## Title-zhTW: ClassLoot 裝備適用職業/天賦提示
 ## Notes-zhTW: 在非職業套裝部分的裝備以顆星等級表示該項裝備適用於哪些職業天賦使用。

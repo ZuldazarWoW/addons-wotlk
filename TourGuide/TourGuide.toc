@@ -5,7 +5,7 @@
 ## X-Curse-Project-ID: tourguide
 ## X-Curse-Repository-ID: wow/tourguide/mainline
 
-## Title: Tour Guide
+## Title: Tour Guide - [|cffb1997fZuldazarWoW|r]
 ## Notes: Powerleveling guide framework
 ## Notes-koKR: 파워레벨링 가이드 프레임워크
 ## Author: Tekkub Stoutwrithe

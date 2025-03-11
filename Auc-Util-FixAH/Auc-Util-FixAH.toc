@@ -1,4 +1,4 @@
-## Title: Auc:Util:FixAH
+## Title: Auc:Util:FixAH - [|cffb1997fZuldazarWoW|r]
 ## Notes: Works around a paging issue when viewing items in the Auction House "browse" frame.  Simply forces all new searches to show the results beginning on the first page.
 ##
 ## Interface: 30300

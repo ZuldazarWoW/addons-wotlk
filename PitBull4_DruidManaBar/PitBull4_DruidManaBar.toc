@@ -1,13 +1,13 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: PitBull4 |r[|cffeda55fDruid mana bar|r]
-## Title-deDE: PitBull4 |r[|cffeda55fDruiden-Manaleiste|r]
-## Title-esES: PitBull4 |r[|cffeda55fBarra de maná para Druída|r]
-## Title-frFR: PitBull4 |r[|cffeda55fBarre de mana druidique|r]
-## Title-koKR: PitBull4 |r[|cffeda55f드루이드 마나바|r]
-## Title-ruRU: PitBull4 |r[|cffeda55fПанель маны друида|r]
-## Title-zhCN: PitBull4 |r[|cffeda55f德鲁伊法力值条|r]
-## Title-zhTW: PitBull4 |r[|cffeda55f德魯伊法力值條|r]
+## Title: PitBull4 |r[|cffeda55fDruid mana bar|r] - [|cffb1997fZuldazarWoW|r]
+## Title-deDE: PitBull4 |r[|cffeda55fDruiden-Manaleiste|r] - [|cffb1997fZuldazarWoW|r]
+## Title-esES: PitBull4 |r[|cffeda55fBarra de maná para Druída|r] - [|cffb1997fZuldazarWoW|r]
+## Title-frFR: PitBull4 |r[|cffeda55fBarre de mana druidique|r] - [|cffb1997fZuldazarWoW|r]
+## Title-koKR: PitBull4 |r[|cffeda55f드루이드 마나바|r] - [|cffb1997fZuldazarWoW|r]
+## Title-ruRU: PitBull4 |r[|cffeda55fПанель маны друида|r] - [|cffb1997fZuldazarWoW|r]
+## Title-zhCN: PitBull4 |r[|cffeda55f德鲁伊法力值条|r] - [|cffb1997fZuldazarWoW|r]
+## Title-zhTW: PitBull4 |r[|cffeda55f德魯伊法力值條|r] - [|cffb1997fZuldazarWoW|r]
 ## Notes: Show the mana bar when a druid is in cat or bear form.
 ## Notes-deDE: Zeigt die Manaleiste, wenn ein Druide in Katzen- oder Bärenform ist.
 ## Notes-esES: Muestra la barra de maná cuando el druída está en forma de felino u oso.

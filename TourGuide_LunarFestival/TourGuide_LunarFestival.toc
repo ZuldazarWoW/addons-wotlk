@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: Tour Guide - The Lunar Festival
+## Title: Tour Guide - The Lunar Festival - [|cffb1997fZuldazarWoW|r]
 ## Notes: An easy-to-follow guide for visiting all of the Lunar Festival Elders.
 ## Author: Ethan Centaurai
 ## Version: 1.0.2

@@ -1,6 +1,6 @@
 ## Interface: 30300 
 ## DefaultState: disabled
-## Title: Clique
+## Title: Clique - [|cffb1997fZuldazarWoW|r]
 ## Author: Cladhaire
 ## Version: wowi:revision
 ## Notes: Simply powerful click-casting interface

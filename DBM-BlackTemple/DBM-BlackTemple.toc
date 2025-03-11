@@ -1,6 +1,6 @@
 ﻿## Interface: 30300
 ## DefaultState: disabled
-## Title:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Black Temple|r
+## Title:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Black Temple|r - [|cffb1997fZuldazarWoW|r]
 ## Author: Tandanu
 ## RequiredDeps: DBM-Core, DBM-BurningCrusade
 ## SavedVariablesPerCharacter: DBMBlackTemple_SavedVars, DBMBlackTemple_SavedStats

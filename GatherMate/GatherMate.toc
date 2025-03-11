@@ -6,9 +6,9 @@
 ## Notes-koKR: 약초, 광맥, 가스, 낚시 위치를 저장하여 월드맵과 미니맵에 표시합니다.
 ## Notes-zhTW: 收集草藥、礦、氣雲和釣魚的地點，並增加他們到世界地圖和小地圖。
 ## Notes-zhCN: 收集草药、矿、气云和钓鱼的地点，并增加他们到世界地图和小地图。
-## Title: GatherMate
-## Title-zhTW: GatherMate 採集助手
-## Title-zhCN: GatherMate 采集助手
+## Title: GatherMate - [|cffb1997fZuldazarWoW|r]
+## Title-zhTW: GatherMate 採集助手 - [|cffb1997fZuldazarWoW|r]
+## Title-zhCN: GatherMate 采集助手 - [|cffb1997fZuldazarWoW|r]
 ## Author: kagaro, Xinhuan, Ammo, Nevcairiel
 ## X-Email: sal.scotto@gmail.com
 ## X-Credits: OttoDeFe for the launher icon.

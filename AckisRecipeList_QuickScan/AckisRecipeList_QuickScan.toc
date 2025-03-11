@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: AckisRecipeList_QuickMenu
+## Title: AckisRecipeList_QuickMenu - [|cffb1997fZuldazarWoW|r]
 ## Notes: Provides a LibDataBroker plugin for quick access to professions under Ackis Recipe List.
 ## Author: Torhal
 ## Version: 3.3.5-1.0.1

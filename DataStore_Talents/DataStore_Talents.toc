@@ -1,6 +1,6 @@
 ﻿## Interface: 30300
 ## DefaultState: disabled
-## Title: DataStore_Talents
+## Title: DataStore_Talents - [|cffb1997fZuldazarWoW|r]
 ## Notes: Stores information about character talents
 ## Author: Thaoky (EU-Marécages de Zangar)
 ## Version: 3.3.001

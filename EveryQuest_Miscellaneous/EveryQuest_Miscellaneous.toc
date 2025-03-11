@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: Every|cffffffffQuest|r2 Miscellaneous Quests
+## Title: Every|cffffffffQuest|r2 Miscellaneous Quests - [|cffb1997fZuldazarWoW|r]
 ## Notes: Contains a list of quests for Miscellaneous
 ## Author: kandarz
 ## X-Email: kandarz@gmail.com

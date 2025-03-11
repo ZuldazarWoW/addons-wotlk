@@ -1,13 +1,13 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: PitBull4 |r[|cffeda55fMana spark|r]
-## Title-deDE: PitBull4 |r[|cffeda55fManafunke|r]
-## Title-esES: PitBull4 |r[|cffeda55fChispa de Maná.|r]
-## Title-frFR: PitBull4 |r[|cffeda55fÉtincelle du mana|r]
-## Title-koKR: PitBull4 |r[|cffeda55f마나 섬광|r]
-## Title-ruRU: PitBull4 |r[|cffeda55fИскра маны|r]
-## Title-zhCN: PitBull4 |r[|cffeda55f5秒法力规则计时|r]
-## Title-zhTW: PitBull4 |r[|cffeda55f5秒法力規則計時|r]
+## Title: PitBull4 |r[|cffeda55fMana spark|r] - [|cffb1997fZuldazarWoW|r]
+## Title-deDE: PitBull4 |r[|cffeda55fManafunke|r] - [|cffb1997fZuldazarWoW|r]
+## Title-esES: PitBull4 |r[|cffeda55fChispa de Maná.|r] - [|cffb1997fZuldazarWoW|r]
+## Title-frFR: PitBull4 |r[|cffeda55fÉtincelle du mana|r] - [|cffb1997fZuldazarWoW|r]
+## Title-koKR: PitBull4 |r[|cffeda55f마나 섬광|r] - [|cffb1997fZuldazarWoW|r]
+## Title-ruRU: PitBull4 |r[|cffeda55fИскра маны|r] - [|cffb1997fZuldazarWoW|r]
+## Title-zhCN: PitBull4 |r[|cffeda55f5秒法力规则计时|r] - [|cffb1997fZuldazarWoW|r]
+## Title-zhTW: PitBull4 |r[|cffeda55f5秒法力規則計時|r] - [|cffb1997fZuldazarWoW|r]
 ## Notes: Show the spellcasting five-second rule.
 ## Notes-deDE: Stellt die Regel für das Fünf-Sekunden-Zaubern dar.
 ## Notes-esES: Muestra la regla de 5 segundos de lanzadores.

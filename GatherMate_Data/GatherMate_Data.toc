@@ -3,9 +3,9 @@
 ## Notes: Wowhead Data dump for GatherMate 
 ## Notes-zhTW: Wowhead 資料轉存至採集助手 GatherMate
 ## Notes-zhCN: Wowhead 资料转存至采集助手 GatherMate
-## Title: GatherMateData
-## Title-zhTW: GatherMateData 採集助手資料庫
-## Title-zhCN: GatherMateData 采集助手数据库
+## Title: GatherMateData - [|cffb1997fZuldazarWoW|r]
+## Title-zhTW: GatherMateData 採集助手資料庫 - [|cffb1997fZuldazarWoW|r]
+## Title-zhCN: GatherMateData 采集助手数据库 - [|cffb1997fZuldazarWoW|r]
 ## Author: kagaro, Xinhuan, Ammo (review and sounding board)
 ## X-Category: Map
 ## X-Email: sal.scotto@gmail.com

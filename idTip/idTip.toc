@@ -1,5 +1,5 @@
 ## Interface: 40000
-## Title: idTip
+## Title: idTip - [|cffb1997fZuldazarWoW|r] 
 ## Version: 2.0
 ## Notes: Adds SpellIDs and ItemIDs to the various tooltips ingame
 ## Author: Silverwind

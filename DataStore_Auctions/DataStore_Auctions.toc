@@ -1,6 +1,6 @@
 ﻿## Interface: 30300
 ## DefaultState: disabled
-## Title: DataStore_Auctions
+## Title: DataStore_Auctions - [|cffb1997fZuldazarWoW|r]
 ## Notes: Stores information about character auctions and bids
 ## Author: Thaoky (EU-Marécages de Zangar)
 ## Version: 3.3.001

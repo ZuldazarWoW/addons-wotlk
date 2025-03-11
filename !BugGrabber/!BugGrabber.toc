@@ -1,5 +1,5 @@
 ﻿## Interface: 30300
-## Title: BugGrabber
+## Title: BugGrabber - [|cffb1997fZuldazarWoW|r]
 ## Title-ruRU:Собиратель ошибок
 ## Version: 2.2
 ## Notes: Grabs bugs for the bug sack.

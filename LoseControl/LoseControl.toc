@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: LoseControl
+## Title: LoseControl - [|cffb1997fZuldazarWoW|r]
 ## Author: Kouri
 ## Version: 3.32
 ## Notes: Displays the duration of CC effects on your character

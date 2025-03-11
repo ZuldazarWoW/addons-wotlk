@@ -1,6 +1,6 @@
 ﻿## Interface: 30300
 ## DefaultState: disabled
-## Title: Minimalist
+## Title: Minimalist - [|cffb1997fZuldazarWoW|r]
 ## Author: whizkid
 ## Notes: A Collection of Automations and Interface Tweaks.
 ## OptionalDeps: Ace3, AbacusLib

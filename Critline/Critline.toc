@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: Critline
+## Title: Critline - [|cffb1997fZuldazarWoW|r]
 ## Version: 3.0.2
 ## Notes: Saves your normal and critical records and flashes a message if you break the record.
 ## Author: L'ombra

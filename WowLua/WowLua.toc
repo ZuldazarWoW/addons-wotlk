@@ -1,5 +1,5 @@
 ## Interface: 30300
-## Title: WowLua
+## Title: WowLua - [|cffb1997fZuldazarWoW|r]
 ## Version: wowi:revision 
 ## Author: Cladhaire
 ## Notes: Interactive Lua interpreter and scratchpad

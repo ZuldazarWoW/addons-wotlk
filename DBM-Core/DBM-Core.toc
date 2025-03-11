@@ -1,12 +1,12 @@
 ﻿## Interface: 30300
 ## DefaultState: disabled
-## Title:|cffffd200Deadly Boss Mods|r |cff69ccf0Core|r
-## Title-zhCN: |cffffd200Deadly Boss Mods|r |cff69ccf0核心|r
-## Title-ruRU:|cffffd200Deadly Boss Mods|r |cff69ccf0Основной|r
-## Title-zhTW:|cffffd200Deadly Boss Mods|r |cff69ccf0核心|r
-## Title-koKR:|cffffd200Deadly Boss Mods|r |cff69ccf0핵심 모듈|r
-## Title-esES:|cffffd200Deadly Boss Mods|r |cff69ccf0Proceso|r
-## Title-esMX:|cffffd200Deadly Boss Mods|r |cff69ccf0Proceso|r
+## Title:|cffffd200Deadly Boss Mods|r |cff69ccf0Core|r - [|cffb1997fZuldazarWoW|r]
+## Title-zhCN: |cffffd200Deadly Boss Mods|r |cff69ccf0核心|r - [|cffb1997fZuldazarWoW|r]
+## Title-ruRU:|cffffd200Deadly Boss Mods|r |cff69ccf0Основной|r - [|cffb1997fZuldazarWoW|r]
+## Title-zhTW:|cffffd200Deadly Boss Mods|r |cff69ccf0核心|r - [|cffb1997fZuldazarWoW|r]
+## Title-koKR:|cffffd200Deadly Boss Mods|r |cff69ccf0핵심 모듈|r - [|cffb1997fZuldazarWoW|r]
+## Title-esES:|cffffd200Deadly Boss Mods|r |cff69ccf0Proceso|r - [|cffb1997fZuldazarWoW|r]
+## Title-esMX:|cffffd200Deadly Boss Mods|r |cff69ccf0Proceso|r - [|cffb1997fZuldazarWoW|r]
 ## Notes: Deadly Boss Mods
 ## SavedVariablesPerCharacter: DBM_SavedOptions, DBT_SavedOptions
 ## LoadOnDemand: 0

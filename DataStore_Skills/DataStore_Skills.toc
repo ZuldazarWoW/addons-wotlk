@@ -1,6 +1,6 @@
 ﻿## Interface: 30300
 ## DefaultState: disabled
-## Title: DataStore_Skills
+## Title: DataStore_Skills - [|cffb1997fZuldazarWoW|r]
 ## Notes: Stores information about character skills
 ## Author: Thaoky (EU-Marécages de Zangar)
 ## Version: 3.3.002

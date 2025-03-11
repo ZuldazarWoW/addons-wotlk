@@ -1,6 +1,6 @@
 ﻿## Interface: 30300
 ## DefaultState: disabled
-## Title: XLoot |cff7fff7f -Ace2-|r
+## Title: XLoot  - [|cffb1997fZuldazarWoW|r] 
 ## Notes: A remake of the built-in lootframe. |cffff4488By Xuerian|r.
 ## Notes-ruRU: Переделывает встроенные окна добычи. |cffff4488Xuerian|r.
 ## Notes-esES: Un reemplazo de la ventana de botín. |cffff4488Por Xuerian|r.

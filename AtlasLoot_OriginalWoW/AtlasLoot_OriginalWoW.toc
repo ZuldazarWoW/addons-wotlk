@@ -1,9 +1,9 @@
 ﻿## Interface: 30300
 ## DefaultState: disabled
-## Title: AtlasLoot_OriginalWoW
-## Title-deDE: AtlasLoot |cFF0099FF[Alte Instanzen]|r
-## Title-zhCN: AtlasLoot |cFF0099FF[经典旧世]|r
-## Title-zhTW: |r|cFF0099FF[地圖]|rAL 艾澤拉斯世界
+## Title: AtlasLoot_OriginalWoW - [|cffb1997fZuldazarWoW|r]
+## Title-deDE: AtlasLoot |cFF0099FF[Alte Instanzen]|r - [|cffb1997fZuldazarWoW|r]
+## Title-zhCN: AtlasLoot |cFF0099FF[经典旧世]|r - [|cffb1997fZuldazarWoW|r]
+## Title-zhTW: |r|cFF0099FF[地圖]|rAL 艾澤拉斯世界 - [|cffb1997fZuldazarWoW|r]
 ## Notes: AtlasLoot loot tables from pre-Burning Crusade
 ## Notes-deDE: AtlasLoot Loot-Tabellen für Instanzen vor Burning Crusade
 ## Notes-zhCN: AtlasLoot Enhanced 的《燃烧的远征》发售之前的副本掉落信息

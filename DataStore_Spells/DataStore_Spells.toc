@@ -1,6 +1,6 @@
 ﻿## Interface: 30300
 ## DefaultState: disabled
-## Title: DataStore_Spells
+## Title: DataStore_Spells - [|cffb1997fZuldazarWoW|r]
 ## Notes: Stores information about character spells
 ## Author: Thaoky (EU-Marécages de Zangar)
 ## Version: 3.3.001

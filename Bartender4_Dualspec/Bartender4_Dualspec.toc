@@ -1,6 +1,6 @@
 ﻿## Interface: 30300
 ## DefaultState: disabled
-## Title: Dualspec Profiles
+## Title: Dualspec Profiles - [|cffb1997fZuldazarWoW|r]
 ## Notes: Automatically changes profiles when changing spec
 ## Author: profalbert
 ## X-License: All rights reserved.

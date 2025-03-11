@@ -1,12 +1,12 @@
 ﻿## Interface: 30300
 ## DefaultState: disabled
-## Title:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Chamber of Aspects|r
-## Title-deDE:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Kammer der Aspekte|r
-## Title-ruRU:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Палата Аспектов|r
-## Title-zhTW:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0守護巨龍之間|r
-## Title-koKR:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0흑요석 성소|r
-## Title-frFR:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Chambre des Aspects|r
-## Title-esES:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Cámara de los Aspectos|r
+## Title:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Chamber of Aspects|r - [|cffb1997fZuldazarWoW|r]
+## Title-deDE:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Kammer der Aspekte|r - [|cffb1997fZuldazarWoW|r]
+## Title-ruRU:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Палата Аспектов|r - [|cffb1997fZuldazarWoW|r]
+## Title-zhTW:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0守護巨龍之間|r - [|cffb1997fZuldazarWoW|r]
+## Title-koKR:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0흑요석 성소|r - [|cffb1997fZuldazarWoW|r]
+## Title-frFR:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Chambre des Aspects|r - [|cffb1997fZuldazarWoW|r]
+## Title-esES:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Cámara de los Aspectos|r - [|cffb1997fZuldazarWoW|r]
 ## LoadOnDemand: 1
 ## RequiredDeps: DBM-Core
 ## SavedVariablesPerCharacter: DBMChamberOfAspects_SavedVars, DBMChamberOfAspects_SavedStats

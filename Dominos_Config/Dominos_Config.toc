@@ -1,8 +1,8 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: Dominos Config
-## Title-zhCN: Dominos 设置
-## Title-zhTW: Dominos 設置
+## Title: Dominos Config - [|cffb1997fZuldazarWoW|r]
+## Title-zhCN: Dominos 设置 - [|cffb1997fZuldazarWoW|r]
+## Title-zhTW: Dominos 設置 - [|cffb1997fZuldazarWoW|r]
 ## Notes: GUI based configuration for Dominos
 ## Author: Tuller
 ## Dependencies: Dominos

@@ -1,13 +1,13 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: PitBull4 |r[|cffeda55fMaster looter icon|r]
-## Title-deDE: PitBull4 |r[|cffeda55fPlündermeistersymbol|r]
-## Title-esES: PitBull4 |r[|cffeda55fIcono de Maestro Despojador|r]
-## Title-frFR: PitBull4 |r[|cffeda55fIcône de maître du butin|r]
-## Title-koKR: PitBull4 |r[|cffeda55f전리품 담당자 아이콘|r]
-## Title-ruRU: PitBull4 |r[|cffeda55fИконка распределяющего добычу|r]
-## Title-zhCN: PitBull4 |r[|cffeda55f主拾取者标志|r]
-## Title-zhTW: PitBull4 |r[|cffeda55f主拾取者標誌|r]
+## Title: PitBull4 |r[|cffeda55fMaster looter icon|r] - [|cffb1997fZuldazarWoW|r]
+## Title-deDE: PitBull4 |r[|cffeda55fPlündermeistersymbol|r] - [|cffb1997fZuldazarWoW|r]
+## Title-esES: PitBull4 |r[|cffeda55fIcono de Maestro Despojador|r] - [|cffb1997fZuldazarWoW|r]
+## Title-frFR: PitBull4 |r[|cffeda55fIcône de maître du butin|r] - [|cffb1997fZuldazarWoW|r]
+## Title-koKR: PitBull4 |r[|cffeda55f전리품 담당자 아이콘|r] - [|cffb1997fZuldazarWoW|r]
+## Title-ruRU: PitBull4 |r[|cffeda55fИконка распределяющего добычу|r] - [|cffb1997fZuldazarWoW|r]
+## Title-zhCN: PitBull4 |r[|cffeda55f主拾取者标志|r] - [|cffb1997fZuldazarWoW|r]
+## Title-zhTW: PitBull4 |r[|cffeda55f主拾取者標誌|r] - [|cffb1997fZuldazarWoW|r]
 ## Notes: Show an icon on the unit frame when the unit is the master looter.
 ## Notes-deDE: Zeigt ein Symbol auf dem Einheitsrahmen, wenn die Einheit der Plündermeister ist.
 ## Notes-esES: Muestra un icono en la unidad cuando es el Maestro Despojador.

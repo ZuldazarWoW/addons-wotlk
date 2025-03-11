@@ -1,4 +1,4 @@
-## Title: SlideBar |cff224477(lib)
+## Title: SlideBar |cff224477(lib) - [|cffb1997fZuldazarWoW|r]
 ## Notes: Allows alternative placement of minimap icons into an expanding bar that sits off the side of the screen, just below the Minimap, by default.
 ## OptionalDeps: !Swatter
 ##

@@ -1,7 +1,7 @@
 ## Interface: 30300
 ## DefaultState: disabled
 ## 
-## Title: GathererDB: |cffce0a11Wowhead|r
+## Title: GathererDB: |cffce0a11Wowhead|r - [|cffb1997fZuldazarWoW|r]
 ## Notes: Gatherer preloaded database, courtesy of |cffce0a11http://wowhead.com|r
 ## Version: 1.0.2009-12-09
 ##

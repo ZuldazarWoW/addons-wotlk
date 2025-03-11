@@ -1,4 +1,4 @@
-## Title: Informant
+## Title: Informant - [|cffb1997fZuldazarWoW|r]
 ## Notes: Displays detailed item information in tooltips, such as use, vendor sales information, and more.  In additon, extended information can be viewed by binding a key from the keybind menu. [5.8.4723] This AddOn is licensed under the GNU GPL, see GPL.txt for details.
 ##
 ## Interface: 30300

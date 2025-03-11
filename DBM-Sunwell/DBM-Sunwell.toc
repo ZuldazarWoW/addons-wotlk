@@ -1,6 +1,6 @@
 ﻿## Interface: 30300
 ## DefaultState: disabled
-## Title:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Sunwell|r
+## Title:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Sunwell|r - [|cffb1997fZuldazarWoW|r]
 ## Author: Tandanu
 ## RequiredDeps: DBM-Core, DBM-BurningCrusade
 ## SavedVariablesPerCharacter: DBMSunwell_SavedVars, DBMSunwell_SavedStats

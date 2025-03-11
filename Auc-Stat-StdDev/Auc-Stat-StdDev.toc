@@ -1,4 +1,4 @@
-## Title: Auc:Stat:Std Deviation
+## Title: Auc:Stat:Std Deviation - [|cffb1997fZuldazarWoW|r]
 ## Notes: Statistics extension for Auctioneer that uses the variance to detect, and ignore, outliers and provides pricing recommendations.
 ##
 ## Interface: 30300

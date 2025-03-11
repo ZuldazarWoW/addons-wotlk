@@ -1,7 +1,7 @@
 ## Interface: 40000
 ## DefaultState: disabled
 ## X-Compatible-With: 40000
-## Title: Raid Roll
+## Title: Raid Roll - [|cffb1997fZuldazarWoW|r]
 ## Author: Musou
 ## Notes: An addon that can be used to perform Raid Rolls
 ## email: killerpet@gmail.com

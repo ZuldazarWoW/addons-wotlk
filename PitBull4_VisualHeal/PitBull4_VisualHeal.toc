@@ -1,13 +1,13 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: PitBull4 |r[|cffeda55fVisualHeal|r]
-## Title-deDE: PitBull4 |r[|cffeda55fVisualHeal|r]
-## Title-esES: PitBull4 |r[|cffeda55fVisualHeal|r]
-## Title-frFR: PitBull4 |r[|cffeda55fVisualHeal|r]
-## Title-koKR: PitBull4 |r[|cffeda55fVisualHeal|r]
-## Title-ruRU: PitBull4 |r[|cffeda55fVisualHeal|r]
-## Title-zhCN: PitBull4 |r[|cffeda55fVisualHeal|r]
-## Title-zhTW: PitBull4 |r[|cffeda55fVisualHeal|r]
+## Title: PitBull4 |r[|cffeda55fVisualHeal|r] - [|cffb1997fZuldazarWoW|r]
+## Title-deDE: PitBull4 |r[|cffeda55fVisualHeal|r] - [|cffb1997fZuldazarWoW|r]
+## Title-esES: PitBull4 |r[|cffeda55fVisualHeal|r] - [|cffb1997fZuldazarWoW|r]
+## Title-frFR: PitBull4 |r[|cffeda55fVisualHeal|r] - [|cffb1997fZuldazarWoW|r]
+## Title-koKR: PitBull4 |r[|cffeda55fVisualHeal|r] - [|cffb1997fZuldazarWoW|r]
+## Title-ruRU: PitBull4 |r[|cffeda55fVisualHeal|r] - [|cffb1997fZuldazarWoW|r]
+## Title-zhCN: PitBull4 |r[|cffeda55fVisualHeal|r] - [|cffb1997fZuldazarWoW|r]
+## Title-zhTW: PitBull4 |r[|cffeda55fVisualHeal|r] - [|cffb1997fZuldazarWoW|r]
 ## Notes: Visualises healing done by you and your group members before it happens. 
 ## Notes-deDE: Zeigt Heilung von dir und anderen Gruppenmitgliedern bevor sie passiert.
 ## Notes-esES: Visualiza las curaciones realizadas por ti y los miembros de tu grupo antes de que se realicen.

@@ -1,8 +1,8 @@
 ## Interface: 50400
-## Title: Total RP 2
-## Title-frFR: Total RP 2
-## Title-esES: Total RP 2
-## Title-deDE: Total RP 2
+## Title: Total RP 2 - [|cffb1997fZuldazarWoW|r]
+## Title-frFR: Total RP 2 - [|cffb1997fZuldazarWoW|r]
+## Title-esES: Total RP 2 - [|cffb1997fZuldazarWoW|r]
+## Title-deDE: Total RP 2 - [|cffb1997fZuldazarWoW|r]
 ## Author: Telkostrasz, Lixxel, Ellypse
 ## Version: 1.022
 ## Notes: Main module

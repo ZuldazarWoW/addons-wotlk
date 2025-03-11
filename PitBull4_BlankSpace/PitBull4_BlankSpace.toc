@@ -1,13 +1,13 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: PitBull4 |r[|cffeda55fBlank space|r]
-## Title-deDE: PitBull4 |r[|cffeda55fLeerraum|r]
-## Title-esES: PitBull4 |r[|cffeda55fEspacio vacío|r]
-## Title-frFR: PitBull4 |r[|cffeda55fEspace vide|r]
-## Title-koKR: PitBull4 |r[|cffeda55f빈 공간|r]
-## Title-ruRU: PitBull4 |r[|cffeda55fПустое пространство|r]
-## Title-zhCN: PitBull4 |r[|cffeda55f空白区域|r]
-## Title-zhTW: PitBull4 |r[|cffeda55f空白|r]
+## Title: PitBull4 |r[|cffeda55fBlank space|r] - [|cffb1997fZuldazarWoW|r]
+## Title-deDE: PitBull4 |r[|cffeda55fLeerraum|r] - [|cffb1997fZuldazarWoW|r]
+## Title-esES: PitBull4 |r[|cffeda55fEspacio vacío|r] - [|cffb1997fZuldazarWoW|r]
+## Title-frFR: PitBull4 |r[|cffeda55fEspace vide|r] - [|cffb1997fZuldazarWoW|r]
+## Title-koKR: PitBull4 |r[|cffeda55f빈 공간|r] - [|cffb1997fZuldazarWoW|r]
+## Title-ruRU: PitBull4 |r[|cffeda55fПустое пространство|r] - [|cffb1997fZuldazarWoW|r]
+## Title-zhCN: PitBull4 |r[|cffeda55f空白区域|r] - [|cffb1997fZuldazarWoW|r]
+## Title-zhTW: PitBull4 |r[|cffeda55f空白|r] - [|cffb1997fZuldazarWoW|r]
 ## Notes: Provide empty bars for spacing.
 ## Notes-deDE: Zeige eine leere Leiste, um einen Abstand zu simulieren.
 ## Notes-esES: Muestra una barra vacía para actuar como separador.

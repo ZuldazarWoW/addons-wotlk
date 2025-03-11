@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: GTFO
+## Title: GTFO - [|cffb1997fZuldazarWoW|r]
 ## Notes: GTFO, you're dying!
 ## Author: Zensunim of Malygos
 ## Version: 2.5.3

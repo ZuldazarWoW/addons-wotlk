@@ -1,9 +1,9 @@
 ## Interface: 30200
 ## DefaultState: disabled
 ## 
-## Title: Gatherer
-## Title-frFR: Gatherer
-## Title-deDE: Gatherer
+## Title: Gatherer - [|cffb1997fZuldazarWoW|r]
+## Title-frFR: Gatherer - [|cffb1997fZuldazarWoW|r]
+## Title-deDE: Gatherer - [|cffb1997fZuldazarWoW|r]
 ## 
 ## Notes: Gatherer, displays stuff you gather in your minimap and world map
 ## Notes-frFR: Gatherer, affiche les objets recoltes dans la minicarte et la carte du monde

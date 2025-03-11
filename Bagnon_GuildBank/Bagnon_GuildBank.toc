@@ -1,6 +1,6 @@
 ## Interface: 30200
 ## DefaultState: disabled
-## Title: Bagnon Guild Bank
+## Title: Bagnon Guild Bank - [|cffb1997fZuldazarWoW|r]
 ## Author: Tuller
 ## Notes: Single window display for your guild bank
 ## Version: 1.0.0

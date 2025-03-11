@@ -1,8 +1,8 @@
 ## Interface: 50400
-## Title: Total RP 2 : Inventory
-## Title-frFR: Total RP 2 : Inventaire
-## Title-esES: Total RP 2 : Inventario
-## Title-deDE: Total RP 2 : Inventar
+## Title: Total RP 2 : Inventory - [|cffb1997fZuldazarWoW|r]
+## Title-frFR: Total RP 2 : Inventaire - [|cffb1997fZuldazarWoW|r]
+## Title-esES: Total RP 2 : Inventario - [|cffb1997fZuldazarWoW|r]
+## Title-deDE: Total RP 2 : Inventar - [|cffb1997fZuldazarWoW|r]
 ## Author: Telkostrasz
 ## Notes: Inventory management
 ## Notes-frFR: Gestion de l'inventaire

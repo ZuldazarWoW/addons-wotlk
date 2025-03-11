@@ -1,10 +1,10 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Ulduar|r
-## Title-ruRU:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Ульдуар|r
-## Title-koKR:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0울두아르|r
-## Title-zhtw:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0奧杜亞|r
-## Title-esES:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Ulduar|r
+## Title:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Ulduar|r - [|cffb1997fZuldazarWoW|r]
+## Title-ruRU:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Ульдуар|r - [|cffb1997fZuldazarWoW|r]
+## Title-koKR:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0울두아르|r - [|cffb1997fZuldazarWoW|r]
+## Title-zhtw:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0奧杜亞|r - [|cffb1997fZuldazarWoW|r]
+## Title-esES:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Ulduar|r - [|cffb1997fZuldazarWoW|r]
 ## LoadOnDemand: 1
 ## RequiredDeps: DBM-Core
 ## SavedVariablesPerCharacter: DBMUlduar_SavedVars, DBMUlduar_SavedStats

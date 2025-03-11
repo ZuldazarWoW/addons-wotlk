@@ -1,6 +1,6 @@
 ﻿## Interface: 30300
 ## DefaultState: disabled
-## Title: DataStore_Pets
+## Title: DataStore_Pets - [|cffb1997fZuldazarWoW|r]
 ## Notes: Stores information about character pets and mounts
 ## Author: Thaoky (EU-Marécages de Zangar)
 ## Version: 3.3.001

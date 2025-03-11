@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: HealBot
+## Title: HealBot - [|cffb1997fZuldazarWoW|r]
 ## Author: StrifeCUK
 ## Notes: Adds a panel with skinable bars for healing, decursive, buffing, ressing, range checking and aggro tracking
 ## SavedVariablesPerCharacter:  HealBot_Config

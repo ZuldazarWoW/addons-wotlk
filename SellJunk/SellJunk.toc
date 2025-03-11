@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: SellJunk
+## Title: SellJunk - [|cffb1997fZuldazarWoW|r]
 ## Notes: Sells all junk in your inventory at once.
 ## Author: CrazyBenny of Stormrage-EU
 ## X-Email: s_m AT centrum DOT cz

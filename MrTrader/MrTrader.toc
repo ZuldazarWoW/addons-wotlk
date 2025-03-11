@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: MrTrader
+## Title: MrTrader - [|cffb1997fZuldazarWoW|r]
 ## Notes: A lightweight addon that does something.
 ## Author: user@zedonline.net
 ## Version: 0.5

@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: Every|cffffffffQuest|r2 World Event Quests
+## Title: Every|cffffffffQuest|r2 World Event Quests - [|cffb1997fZuldazarWoW|r]
 ## Notes: Contains a list of quests for World Events
 ## Author: kandarz
 ## X-Email: kandarz@gmail.com

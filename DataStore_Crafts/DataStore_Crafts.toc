@@ -1,6 +1,6 @@
 ﻿## Interface: 30300
 ## DefaultState: disabled
-## Title: DataStore_Crafts
+## Title: DataStore_Crafts - [|cffb1997fZuldazarWoW|r]
 ## Notes: Stores information about professions & crafts
 ## Author: Thaoky (EU-Marécages de Zangar)
 ## Version: 3.3.002

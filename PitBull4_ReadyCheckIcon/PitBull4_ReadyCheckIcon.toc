@@ -1,13 +1,13 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: PitBull4 |r[|cffeda55fReady check icon|r]
-## Title-deDE: PitBull4 |r[|cffeda55fBereitschaftscheck-Symbol|r]
-## Title-esES: PitBull4 |r[|cffeda55fIcono de comprobacion de quien está listo.|r]
-## Title-frFR: PitBull4 |r[|cffeda55fIcône de l'appel|r]
-## Title-koKR: PitBull4 |r[|cffeda55f준비 확인 아이콘|r]
-## Title-ruRU: PitBull4 |r[|cffeda55fИконка готовности|r]
-## Title-zhCN: PitBull4 |r[|cffeda55f就位确认标记|r]
-## Title-zhTW: PitBull4 |r[|cffeda55f就位確認標記|r]
+## Title: PitBull4 |r[|cffeda55fReady check icon|r] - [|cffb1997fZuldazarWoW|r]
+## Title-deDE: PitBull4 |r[|cffeda55fBereitschaftscheck-Symbol|r] - [|cffb1997fZuldazarWoW|r]
+## Title-esES: PitBull4 |r[|cffeda55fIcono de comprobacion de quien está listo.|r] - [|cffb1997fZuldazarWoW|r]
+## Title-frFR: PitBull4 |r[|cffeda55fIcône de l'appel|r] - [|cffb1997fZuldazarWoW|r]
+## Title-koKR: PitBull4 |r[|cffeda55f준비 확인 아이콘|r] - [|cffb1997fZuldazarWoW|r]
+## Title-ruRU: PitBull4 |r[|cffeda55fИконка готовности|r] - [|cffb1997fZuldazarWoW|r]
+## Title-zhCN: PitBull4 |r[|cffeda55f就位确认标记|r] - [|cffb1997fZuldazarWoW|r]
+## Title-zhTW: PitBull4 |r[|cffeda55f就位確認標記|r] - [|cffb1997fZuldazarWoW|r]
 ## Notes: Show a ready check icon on the unit frame based on their response.
 ## Notes-deDE: Zeigt ein Bereitschaftscheck-Symbol auf dem Einheitsrahmen abhängig von der Antwort der Einheit.
 ## Notes-esES: Muestra un icono de "Listo" en la unidad basándose en su respuesta.

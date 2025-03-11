@@ -1,5 +1,5 @@
 ## Interface: 30300
-## Title: Udw_LootTools
+## Title: Udw_LootTools - [|cffb1997fZuldazarWoW|r]
 ## Author: Yehonal
 ## Version: 0.0.2.5
 ## DefaultState: disabled

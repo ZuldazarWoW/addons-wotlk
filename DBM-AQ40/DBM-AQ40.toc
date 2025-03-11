@@ -1,8 +1,8 @@
 ﻿## Interface: 30300
 ## DefaultState: disabled
-## Title:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Temple of Ahn'Qiraj|r
-## Title-esES:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Templo de Ahn'Qiraj|r
-## Title-ruRU:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Храм Ан'Киража|r
+## Title:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Temple of Ahn'Qiraj|r - [|cffb1997fZuldazarWoW|r]
+## Title-esES:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Templo de Ahn'Qiraj|r - [|cffb1997fZuldazarWoW|r]
+## Title-ruRU:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Храм Ан'Киража|r - [|cffb1997fZuldazarWoW|r]
 ## LoadOnDemand: 1
 ## RequiredDeps: DBM-Core
 ## SavedVariablesPerCharacter: DBMAQ40_SavedVars, DBMAQ40_SavedStats

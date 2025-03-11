@@ -1,6 +1,6 @@
 ﻿## Interface: 30300
 ## DefaultState: disabled
-## Title: DataStore_Containers
+## Title: DataStore_Containers - [|cffb1997fZuldazarWoW|r]
 ## Notes: Stores information about character bags, bank, and guild banks
 ## Author: Thaoky (EU-Marécages de Zangar)
 ## Version: 3.3.001

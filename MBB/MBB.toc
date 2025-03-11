@@ -1,6 +1,6 @@
 ﻿## Interface: 50100
 ## DefaultState: disabled
-## Title: MinimapButtonBag
+## Title: MinimapButtonBag - [|cffb1997fZuldazarWoW|r]
 ## Author: Tunhadil, Fixed by Pericles for WotLK, fixed by yossa for patch 4.0.1
 ## X-Category: Map
 ## Notes: Cleans up minimap buttons and makes them accessible through a pop out menu!

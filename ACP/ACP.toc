@@ -1,6 +1,6 @@
 ﻿## Interface: 30300
 ## DefaultState: disabled
-## Title: Addon Control Panel
+## Title: Addon Control Panel - [|cffb1997fZuldazarWoW|r]
 ## Author: sylvanaar, Rophy, Saien
 ## Notes: Adds an addon manager in game via the 'Addons' menu. Special support for multi-part addons. Based on rMCP by Rophy.
 ## Notes-ruRU: Добавляет менеджер модификаций а игру посредством пункта меню 'Модификации'. Специальная поддержка модификаций состоящих из нескольких частей. Основан на rMCP от Rophy.

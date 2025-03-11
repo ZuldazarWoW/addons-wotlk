@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: Bagnon Config
+## Title: Bagnon Config - [|cffb1997fZuldazarWoW|r]
 ## Notes: GUI based configuration for Bagnon
 ## Author: Tuller
 ## Dependencies: Bagnon

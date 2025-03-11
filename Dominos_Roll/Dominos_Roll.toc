@@ -1,7 +1,7 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: Dominos Roll
-## Title-zhCN: |cFF0099FF[Dominos]|r Roll窗口模块
+## Title: Dominos Roll - [|cffb1997fZuldazarWoW|r]
+## Title-zhCN: |cFF0099FF[Dominos]|r Roll窗口模块 - [|cffb1997fZuldazarWoW|r]
 ## Notes: Makes the set of frames for rolling on items when in a group movable
 ## Author: Tuller
 ## Dependencies: Dominos

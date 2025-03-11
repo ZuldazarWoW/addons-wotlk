@@ -2,7 +2,7 @@
 ## DefaultState: disabled
 ## X-Compatible-With: 40000
 ## Version: 3.4.0
-## Title: Postal
+## Title: Postal - [|cffb1997fZuldazarWoW|r]
 ## Author: Xinhuan
 ## X-Credits: Ammo, Rabbit, Grennon, Mikk
 ## X-Category: Mail

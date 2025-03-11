@@ -1,8 +1,8 @@
 ﻿## Interface: 50400
-## Title: Total RP 2 : Data Base
-## Title-frFR: Total RP 2 : Base de données
-## Title-esES: Total RP 2 : Base de datos
-## Title-deDE: Total RP 2 : Datenbank
+## Title: Total RP 2 : Data Base - [|cffb1997fZuldazarWoW|r]
+## Title-frFR: Total RP 2 : Base de données - [|cffb1997fZuldazarWoW|r]
+## Title-esES: Total RP 2 : Base de datos - [|cffb1997fZuldazarWoW|r]
+## Title-deDE: Total RP 2 : Datenbank - [|cffb1997fZuldazarWoW|r]
 ## Author: Telkostrasz
 ## Notes: Database module
 ## Notes-frFR: Module de base de données

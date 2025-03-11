@@ -1,6 +1,6 @@
 ﻿## Interface: 30300
 ## DefaultState: disabled
-## Title: EasyLoot
+## Title: EasyLoot - [|cffb1997fZuldazarWoW|r]
 ## Author: Zaman
 ## Version: 1.7.0.0
 

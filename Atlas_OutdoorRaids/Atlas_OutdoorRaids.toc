@@ -1,10 +1,10 @@
 ﻿## Interface: 30300
 ## DefaultState: disabled
-## Title: Atlas |r|cFF0099FF[Outdoor Raids]|r
-## Title-deDE: Atlas |r|cFF0099FF[Außenweltschlachtzüge]|r
-## Title-ruRU: Atlas |r|cFF0099FF[Внешние Рейды]|r
-## Title-zhTW: |r|cFF0099FF[地圖]|rAtlas 戶外首領地圖
-## Title-zhCN: Atlas |r|cFF0099FF[户外首领分布图]|r
+## Title: Atlas |r|cFF0099FF[Outdoor Raids]|r - [|cffb1997fZuldazarWoW|r]
+## Title-deDE: Atlas |r|cFF0099FF[Außenweltschlachtzüge]|r - [|cffb1997fZuldazarWoW|r]
+## Title-ruRU: Atlas |r|cFF0099FF[Внешние Рейды]|r - [|cffb1997fZuldazarWoW|r]
+## Title-zhTW: |r|cFF0099FF[地圖]|rAtlas 戶外首領地圖 - [|cffb1997fZuldazarWoW|r]
+## Title-zhCN: Atlas |r|cFF0099FF[户外首领分布图]|r - [|cffb1997fZuldazarWoW|r]
 ## Notes: Outdoor Raid Encounters
 ## Notes-ruRU: Места внешних рейдовых схваток
 ## Notes-deDE: Außenweltschlachtzüge

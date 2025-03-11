@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: MSBT [|cffffff80Options|r]
+## Title: MSBT [|cffffff80Options|r] - [|cffb1997fZuldazarWoW|r]
 ## Author: Mikord
 ## Notes: Load on demand options for Mik's Scrolling Battle Text
 ## Dependencies: MikScrollingBattleText

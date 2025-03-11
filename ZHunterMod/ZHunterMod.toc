@@ -1,6 +1,6 @@
 ## Interface: 30100
 ## DefaultState: disabled
-## Title: Zanzer's Hunter Mod
+## Title: Zanzer's Hunter Mod - [|cffb1997fZuldazarWoW|r]
 ## Notes: Useful additions to make a Hunter's life even easier!
 ## SavedVariablesPerCharacter: ZHunterMod_Saved
 

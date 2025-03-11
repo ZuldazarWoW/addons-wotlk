@@ -1,6 +1,6 @@
 ﻿## Interface: 30300
 ## DefaultState: disabled
-## Title: DataStore
+## Title: DataStore - [|cffb1997fZuldazarWoW|r]
 ## Notes: Main DataStore Module
 ## Author: Thaoky (EU-Marécages de Zangar)
 ## Version: 3.3.001

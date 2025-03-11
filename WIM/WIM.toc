@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: WIM
+## Title: WIM - [|cffb1997fZuldazarWoW|r]
 ## Author: Pazza (Bronzebeard)
 ## Version: 3.3.7
 ## Notes: Give whispers an instant messenger feel.

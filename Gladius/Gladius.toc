@@ -1,6 +1,6 @@
 ﻿## Interface: 30300
 ## DefaultState: disabled
-## Title: Gladius
+## Title: Gladius - [|cffb1997fZuldazarWoW|r]
 ## Notes: Arena enemy unit frames
 ## Version: v1.2.0
 ## Author: Proditor, Rinu

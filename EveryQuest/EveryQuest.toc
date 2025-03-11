@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: Every|cffffffffQuest|r2
+## Title: Every|cffffffffQuest|r2 - [|cffb1997fZuldazarWoW|r]
 ## Notes: Quest History tracker and shows lists of quests in each category
 ## Notes-zhCN: 任务历史追踪及任务分类显示列表
 ## Notes-zhTW: 任務歷史追蹤及任務分類顯示列表

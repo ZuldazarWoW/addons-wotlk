@@ -1,13 +1,13 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: PitBull4 |r[|cffeda55fCombo points|r]
-## Title-deDE: PitBull4 |r[|cffeda55fCombo-Punkte|r]
-## Title-esES: PitBull4 |r[|cffeda55fPuntos de combo|r]
-## Title-frFR: PitBull4 |r[|cffeda55fPoints de combo|r]
-## Title-koKR: PitBull4 |r[|cffeda55f연계 점수|r]
-## Title-ruRU: PitBull4 |r[|cffeda55fКомбо поинты|r]
-## Title-zhCN: PitBull4 |r[|cffeda55f连击点|r]
-## Title-zhTW: PitBull4 |r[|cffeda55f連擊點|r]
+## Title: PitBull4 |r[|cffeda55fCombo points|r] - [|cffb1997fZuldazarWoW|r]
+## Title-deDE: PitBull4 |r[|cffeda55fCombo-Punkte|r] - [|cffb1997fZuldazarWoW|r]
+## Title-esES: PitBull4 |r[|cffeda55fPuntos de combo|r] - [|cffb1997fZuldazarWoW|r]
+## Title-frFR: PitBull4 |r[|cffeda55fPoints de combo|r] - [|cffb1997fZuldazarWoW|r]
+## Title-koKR: PitBull4 |r[|cffeda55f연계 점수|r] - [|cffb1997fZuldazarWoW|r]
+## Title-ruRU: PitBull4 |r[|cffeda55fКомбо поинты|r] - [|cffb1997fZuldazarWoW|r]
+## Title-zhCN: PitBull4 |r[|cffeda55f连击点|r] - [|cffb1997fZuldazarWoW|r]
+## Title-zhTW: PitBull4 |r[|cffeda55f連擊點|r] - [|cffb1997fZuldazarWoW|r]
 ## Notes: Show combo points on the unit frame if you are a Rogue or Druid in Cat form.
 ## Notes-deDE: Stellt Combo-Punkte auf dem Rahmen dar, wenn der Spieler ein Schurke oder Druide in Katzengestalt ist.
 ## Notes-esES: Muestra los puntos de combo en el  marco de la unidad si eres un Pícaro o un Druída en forma Felina.

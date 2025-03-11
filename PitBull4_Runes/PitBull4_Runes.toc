@@ -1,13 +1,13 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: PitBull4 |r[|cffeda55fRunes|r]
-## Title-deDE: PitBull4 |r[|cffeda55fRunen|r]
-## Title-esES: PitBull4 |r[|cffeda55fRunas|r]
-## Title-frFR: PitBull4 |r[|cffeda55fRunes|r]
-## Title-koKR: PitBull4 |r[|cffeda55f룬|r]
-## Title-ruRU: PitBull4 |r[|cffeda55fРуны|r]
-## Title-zhCN: PitBull4 |r[|cffeda55f符文|r]
-## Title-zhTW: PitBull4 |r[|cffeda55f符文|r]
+## Title: PitBull4 |r[|cffeda55fRunes|r] - [|cffb1997fZuldazarWoW|r]
+## Title-deDE: PitBull4 |r[|cffeda55fRunen|r] - [|cffb1997fZuldazarWoW|r]
+## Title-esES: PitBull4 |r[|cffeda55fRunas|r] - [|cffb1997fZuldazarWoW|r]
+## Title-frFR: PitBull4 |r[|cffeda55fRunes|r] - [|cffb1997fZuldazarWoW|r]
+## Title-koKR: PitBull4 |r[|cffeda55f룬|r] - [|cffb1997fZuldazarWoW|r]
+## Title-ruRU: PitBull4 |r[|cffeda55fРуны|r] - [|cffb1997fZuldazarWoW|r]
+## Title-zhCN: PitBull4 |r[|cffeda55f符文|r] - [|cffb1997fZuldazarWoW|r]
+## Title-zhTW: PitBull4 |r[|cffeda55f符文|r] - [|cffb1997fZuldazarWoW|r]
 ## Notes: Show Death Knight rune icons.
 ## Notes-deDE: Zeigt Runensymbole für Todesritter an.
 ## Notes-esES: Muestra iconos de runa de Caballero de la Muerte

@@ -1,7 +1,7 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: Dominos Cast
-## Title-zhCN: |cFF0099FF[Dominos]|r 施法条模块
+## Title: Dominos Cast - [|cffb1997fZuldazarWoW|r]
+## Title-zhCN: |cFF0099FF[Dominos]|r 施法条模块 - [|cffb1997fZuldazarWoW|r]
 ## Notes: A movable casting bar, with timer
 ## Author: Tuller
 ## Dependencies: Dominos

@@ -1,5 +1,5 @@
 ﻿## Interface: 50400
-## Title: Total RP 2 : UI
+## Title: Total RP 2 : UI - [|cffb1997fZuldazarWoW|r]
 ## Author: Telkostrasz
 ## Notes: User Interface
 ## Notes-frFR: Interface utilisateur

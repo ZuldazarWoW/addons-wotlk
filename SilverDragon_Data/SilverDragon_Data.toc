@@ -1,6 +1,6 @@
 ﻿## Interface: 30300
 ## DefaultState: disabled
-## Title: SilverDragon (Data)
+## Title: SilverDragon (Data) - [|cffb1997fZuldazarWoW|r]
 ## Notes: Default set of rares for SilverDragon
 ## Version: v2.3.4
 ## Author: Kemayo

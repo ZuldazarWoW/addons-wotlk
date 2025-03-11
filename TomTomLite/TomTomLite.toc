@@ -1,6 +1,6 @@
 ## Interface: 40300
 ## DefaultState: disabled
-## Title: TomTomLite
+## Title: TomTomLite - [|cffb1997fZuldazarWoW|r]
 ## Author: Cladhaire
 ## Version: v40300-0.1.3-75066ed
 ## Notes: An even simpler navigational assistant

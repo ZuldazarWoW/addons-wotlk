@@ -1,6 +1,6 @@
 ## Interface: 30200
 ## DefaultState: disabled
-## Title: Skillet |cff7fff7f -Ace2-|r
+## Title: Skillet |cff7fff7f -Ace2-|r - [|cffb1997fZuldazarWoW|r]
 ## Notes: A replacement tradeskill window
 ## Author: nogudnik, lilsparky
 ## Version 1.10-LS

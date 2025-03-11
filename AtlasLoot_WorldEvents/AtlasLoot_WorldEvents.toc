@@ -1,9 +1,9 @@
 ﻿## Interface: 30300
 ## DefaultState: disabled
-## Title: AtlasLoot_WorldEvents
-## Title-deDE: AtlasLoot |cFF0099FF[Welt-Loot]|r
-## Title-zhCN: AtlasLoot |cFF0099FF[户外首领]|r
-## Title-zhTW: |r|cFF0099FF[地圖]|rAL 世界事件
+## Title: AtlasLoot_WorldEvents - [|cffb1997fZuldazarWoW|r]
+## Title-deDE: AtlasLoot |cFF0099FF[Welt-Loot]|r - [|cffb1997fZuldazarWoW|r]
+## Title-zhCN: AtlasLoot |cFF0099FF[户外首领]|r - [|cffb1997fZuldazarWoW|r]
+## Title-zhTW: |r|cFF0099FF[地圖]|rAL 世界事件 - [|cffb1997fZuldazarWoW|r]
 ## Notes: AtlasLoot loot tables from world events
 ## Notes-zhCN: AtlasLoot Enhanced 的户外首领掉落信息
 ## Notes-zhTW: AtlasLoot 世界事件物品掉落資料庫

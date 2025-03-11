@@ -1,4 +1,4 @@
-## Title: EnchantrixBarker
+## Title: EnchantrixBarker - [|cffb1997fZuldazarWoW|r]
 ## Notes: Sends a price list of Enchants that a user has available for sale to the Trade channel. [5.8.4723] This AddOn is licensed under the GNU GPL, see GPL.txt for details.
 ##
 ## Interface: 30300

@@ -1,8 +1,8 @@
 ﻿## Interface: 50400
-## Title: Total RP 2 : Creation tools
-## Title-frFR: Total RP 2 : Outils de création
-## Title-esES: Total RP 2 : Creaciones
-## Title-deDE: Total RP 2 : Erstellungs-Werkzeuge
+## Title: Total RP 2 : Creation tools - [|cffb1997fZuldazarWoW|r]
+## Title-frFR: Total RP 2 : Outils de création - [|cffb1997fZuldazarWoW|r]
+## Title-esES: Total RP 2 : Creaciones - [|cffb1997fZuldazarWoW|r]
+## Title-deDE: Total RP 2 : Erstellungs-Werkzeuge - [|cffb1997fZuldazarWoW|r]
 ## Author: Telkostrasz
 ## Notes: Creation tools management
 ## Notes-frFR: Gestion des outils de création

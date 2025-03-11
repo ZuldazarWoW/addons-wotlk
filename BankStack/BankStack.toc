@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: BankStack
+## Title: BankStack - [|cffb1997fZuldazarWoW|r]
 ## Author: Kemayo
 ## Notes: From bags we came, to bank we return
 ## Version: v17

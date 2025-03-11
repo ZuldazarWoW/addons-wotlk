@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: Overachiever
+## Title: Overachiever - [|cffb1997fZuldazarWoW|r]
 ## Version: 0.56
 ## Author: Tuhljin
 ## Notes: Tools and tweaks to make the lives of players seeking Achievements a little bit easier.

@@ -1,6 +1,6 @@
 ﻿## Interface: 30300
 ## DefaultState: disabled
-## Title: WoWEquip
+## Title: WoWEquip - [|cffb1997fZuldazarWoW|r]
 ## Notes: Try on different gear and see their total stats and their differences. In short, an ingame CT-Profiles-like addon.
 ## Author: Xinhuan, Grum
 ## Version: 1.3

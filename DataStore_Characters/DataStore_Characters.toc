@@ -1,6 +1,6 @@
 ﻿## Interface: 30300
 ## DefaultState: disabled
-## Title: DataStore_Characters
+## Title: DataStore_Characters - [|cffb1997fZuldazarWoW|r]
 ## Notes: Stores information about characters (race, level, etc..)
 ## Author: Thaoky (EU-Marécages de Zangar)
 ## Version: 3.3.001

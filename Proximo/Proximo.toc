@@ -1,7 +1,7 @@
 ## Interface: 30000
 ## DefaultState: disabled
 ## Name: Proximo
-## Title: Proximo
+## Title: Proximo - [|cffb1997fZuldazarWoW|r]
 ## Notes: Simple enemy unit frames for Arena matches
 ## Notes-ruRU: Простой аддон фреймов противников для арена боёв
 ## Notes-zhCN: 简单的竞技场敌方目标框架

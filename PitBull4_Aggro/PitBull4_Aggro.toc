@@ -1,13 +1,13 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: PitBull4 |r[|cffeda55fAggro|r]
-## Title-deDE: PitBull4 |r[|cffeda55fBedrohung|r]
-## Title-esES: PitBull4 |r[|cffeda55fAgro|r]
-## Title-frFR: PitBull4 |r[|cffeda55fAggro|r]
-## Title-koKR: PitBull4 |r[|cffeda55f어그로|r]
-## Title-ruRU: PitBull4 |r[|cffeda55fАгро|r]
-## Title-zhCN: PitBull4 |r[|cffeda55f当前仇恨颜色|r]
-## Title-zhTW: PitBull4 |r[|cffeda55f目前仇恨顏色|r]
+## Title: PitBull4 |r[|cffeda55fAggro|r] - [|cffb1997fZuldazarWoW|r]
+## Title-deDE: PitBull4 |r[|cffeda55fBedrohung|r] - [|cffb1997fZuldazarWoW|r]
+## Title-esES: PitBull4 |r[|cffeda55fAgro|r] - [|cffb1997fZuldazarWoW|r]
+## Title-frFR: PitBull4 |r[|cffeda55fAggro|r] - [|cffb1997fZuldazarWoW|r]
+## Title-koKR: PitBull4 |r[|cffeda55f어그로|r] - [|cffb1997fZuldazarWoW|r]
+## Title-ruRU: PitBull4 |r[|cffeda55fАгро|r] - [|cffb1997fZuldazarWoW|r]
+## Title-zhCN: PitBull4 |r[|cffeda55f当前仇恨颜色|r] - [|cffb1997fZuldazarWoW|r]
+## Title-zhTW: PitBull4 |r[|cffeda55f目前仇恨顏色|r] - [|cffb1997fZuldazarWoW|r]
 ## Notes: Add aggro coloring to the unit frame.
 ## Notes-deDE: Bedrohungsfärbung zu den Einheitenrahmen hinzufügen.
 ## Notes-esES: Añade coloreado según el Agro a PitBull4

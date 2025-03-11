@@ -1,6 +1,6 @@
 ﻿## Interface: 30300
 ## DefaultState: disabled
-## Title: SilverDragon
+## Title: SilverDragon - [|cffb1997fZuldazarWoW|r]
 ## Notes: Remember where rares were
 ## Title-zhTW: SilverDragon
 ## Notes-zhTW: 協助記錄稀有怪位置,以及MouseOver時提示你.

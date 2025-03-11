@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: Shadowed Unit Frames
+## Title: Shadowed Unit Frames - [|cffb1997fZuldazarWoW|r]
 ## Notes: An apple a day keeps the raptor away, or so they say
 ## Author: Shadowed
 ## Version: v3.2.10-13-g32d9f55

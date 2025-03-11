@@ -1,13 +1,13 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: PitBull4 |r[|cffeda55fCast bar latency|r]
-## Title-deDE: PitBull4 |r[|cffeda55fZauberleistenlatenz|r]
-## Title-esES: PitBull4 |r[|cffeda55fLatencia en Barra de Lanzamiento|r]
-## Title-frFR: PitBull4 |r[|cffeda55fLatence de la barre d'incantation|r]
-## Title-koKR: PitBull4 |r[|cffeda55f시전바 지연율|r]
-## Title-ruRU: PitBull4 |r[|cffeda55fОтображение задержки на кастбаре|r]
-## Title-zhCN: PitBull4 |r[|cffeda55f施法延迟|r]
-## Title-zhTW: PitBull4 |r[|cffeda55f施法延遲顯示|r]
+## Title: PitBull4 |r[|cffeda55fCast bar latency|r] - [|cffb1997fZuldazarWoW|r]
+## Title-deDE: PitBull4 |r[|cffeda55fZauberleistenlatenz|r] - [|cffb1997fZuldazarWoW|r]
+## Title-esES: PitBull4 |r[|cffeda55fLatencia en Barra de Lanzamiento|r] - [|cffb1997fZuldazarWoW|r]
+## Title-frFR: PitBull4 |r[|cffeda55fLatence de la barre d'incantation|r] - [|cffb1997fZuldazarWoW|r]
+## Title-koKR: PitBull4 |r[|cffeda55f시전바 지연율|r] - [|cffb1997fZuldazarWoW|r]
+## Title-ruRU: PitBull4 |r[|cffeda55fОтображение задержки на кастбаре|r] - [|cffb1997fZuldazarWoW|r]
+## Title-zhCN: PitBull4 |r[|cffeda55f施法延迟|r] - [|cffb1997fZuldazarWoW|r]
+## Title-zhTW: PitBull4 |r[|cffeda55f施法延遲顯示|r] - [|cffb1997fZuldazarWoW|r]
 ## Notes: Show a guessed safe zone at the end of the player castbar.
 ## Notes-deDE: Zeige eine geschätzte sichere Zone am Ende der Zauberleiste des Spielers an.
 ## Notes-esES: Muestra una zona estimada de seguridad al final de la barra de lanzamiento.

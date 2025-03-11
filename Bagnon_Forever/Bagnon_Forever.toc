@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: Bagnon Forever
+## Title: Bagnon Forever - [|cffb1997fZuldazarWoW|r]
 ## Notes: Stores inventory information about your characters
 ## Notes-zhTW: 儲存角色背包和銀行的物品資訊
 ## Notes-zhCN: 保存角色背包与银行内物品的信息

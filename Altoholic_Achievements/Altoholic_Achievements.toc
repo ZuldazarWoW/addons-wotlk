@@ -1,6 +1,6 @@
 ﻿## Interface: 30300
 ## DefaultState: disabled
-## Title: Altoholic_Achievements
+## Title: Altoholic_Achievements - [|cffb1997fZuldazarWoW|r]
 ## Notes: Altoholic's Achievements UI
 ## Author: Thaoky (EU-Marécages de Zangar)
 ## Version: 3.3.002

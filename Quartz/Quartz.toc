@@ -1,4 +1,4 @@
-## Title: Quartz
+## Title: Quartz - [|cffb1997fZuldazarWoW|r]
 ## Interface: 30300
 ## DefaultState: disabled
 ## Notes: Modular casting bar.

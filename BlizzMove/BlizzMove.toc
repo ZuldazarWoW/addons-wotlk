@@ -1,6 +1,6 @@
 ﻿## Interface: 30300
 ## DefaultState: disabled
-## Title: Blizzmove
+## Title: Blizzmove - [|cffb1997fZuldazarWoW|r]
 ## Notes: Move those blizzard windows
 ## Author: yess
 ## Version: v0.7

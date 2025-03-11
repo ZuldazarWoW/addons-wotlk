@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: Interrupt Bar
+## Title: Interrupt Bar - [|cffb1997fZuldazarWoW|r]
 ## Notes: Tracks interrupts
 ## Version: 1.18
 ## Author: Kollektiv

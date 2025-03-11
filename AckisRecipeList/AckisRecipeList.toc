@@ -1,13 +1,13 @@
 #@non-debug@
-## Title: Ackis Recipe List 1.0
-## Title-frFR: Ackis Recipe List 1.0
-## Title-deDE: Ackis Rezeptliste 1.0
-## Title-koKR: Ackis의 제조법 리스트 1.0
-## Title-esMX: Ackis Recipe List 1.0
-## Title-ruRU: Ackis Recipe List 1.0
-## Title-zhCN: Ackis Recipe List 1.0
-## Title-esES: Ackis Recipe List 1.0
-## Title-zhTW: Ackis Recipe List 1.0
+## Title: Ackis Recipe List 1.0  - [|cffb1997fZuldazarWoW|r]
+## Title-frFR: Ackis Recipe List 1.0  - [|cffb1997fZuldazarWoW|r]
+## Title-deDE: Ackis Rezeptliste 1.0 - [|cffb1997fZuldazarWoW|r]
+## Title-koKR: Ackis의 제조법 리스트 1.0 - [|cffb1997fZuldazarWoW|r]
+## Title-esMX: Ackis Recipe List 1.0 - [|cffb1997fZuldazarWoW|r]
+## Title-ruRU: Ackis Recipe List 1.0 - [|cffb1997fZuldazarWoW|r]
+## Title-zhCN: Ackis Recipe List 1.0 - [|cffb1997fZuldazarWoW|r]
+## Title-esES: Ackis Recipe List 1.0 - [|cffb1997fZuldazarWoW|r]
+## Title-zhTW: Ackis Recipe List 1.0 - [|cffb1997fZuldazarWoW|r]
 #@end-non-debug@
 #@debug@
 # ## Title: Ackis Recipe List - SVN Version

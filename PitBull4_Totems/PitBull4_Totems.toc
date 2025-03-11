@@ -1,13 +1,13 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: PitBull4 |r[|cffeda55fTotems|r]
-## Title-deDE: PitBull4 |r[|cffeda55fTotem|r]
-## Title-esES: PitBull4 |r[|cffeda55fTotems|r]
-## Title-frFR: PitBull4 |r[|cffeda55fTotems|r]
-## Title-koKR: PitBull4 |r[|cffeda55f토템|r]
-## Title-ruRU: PitBull4 |r[|cffeda55fТотемы|r]
-## Title-zhCN: PitBull4 |r[|cffeda55f图腾|r]
-## Title-zhTW: PitBull4 |r[|cffeda55f圖騰|r]
+## Title: PitBull4 |r[|cffeda55fTotems|r] - [|cffb1997fZuldazarWoW|r]
+## Title-deDE: PitBull4 |r[|cffeda55fTotem|r] - [|cffb1997fZuldazarWoW|r]
+## Title-esES: PitBull4 |r[|cffeda55fTotems|r] - [|cffb1997fZuldazarWoW|r]
+## Title-frFR: PitBull4 |r[|cffeda55fTotems|r] - [|cffb1997fZuldazarWoW|r]
+## Title-koKR: PitBull4 |r[|cffeda55f토템|r] - [|cffb1997fZuldazarWoW|r]
+## Title-ruRU: PitBull4 |r[|cffeda55fТотемы|r] - [|cffb1997fZuldazarWoW|r]
+## Title-zhCN: PitBull4 |r[|cffeda55f图腾|r] - [|cffb1997fZuldazarWoW|r]
+## Title-zhTW: PitBull4 |r[|cffeda55f圖騰|r] - [|cffb1997fZuldazarWoW|r]
 ## Notes: Show which Totems are dropped and the time left until they expire.
 ## Notes-deDE: Zeigt welche Totems gesetzt wurden und die Zeit bis sie ablaufen.
 ## Notes-esES: Muestra que Totems se han lanzado y el tiempo restante antes de espirar.

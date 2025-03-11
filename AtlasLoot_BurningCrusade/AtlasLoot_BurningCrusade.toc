@@ -1,9 +1,9 @@
 ﻿## Interface: 30300
 ## DefaultState: disabled
-## Title: AtlasLoot_BurningCrusade
-## Title-deDE: AtlasLoot |cFF0099FF[BC-Instanzen]|r
-## Title-zhCN: AtlasLoot |cFF0099FF[燃烧的远征]|r
-## Title-zhTW: |r|cFF0099FF[地圖]|rAL 燃燒的遠征
+## Title: AtlasLoot_BurningCrusade - [|cffb1997fZuldazarWoW|r]
+## Title-deDE: AtlasLoot |cFF0099FF[BC-Instanzen]|r - [|cffb1997fZuldazarWoW|r]
+## Title-zhCN: AtlasLoot |cFF0099FF[燃烧的远征]|r - [|cffb1997fZuldazarWoW|r]
+## Title-zhTW: |r|cFF0099FF[地圖]|rAL 燃燒的遠征 - [|cffb1997fZuldazarWoW|r]
 ## Notes: AtlasLoot loot tables from the Burning Crusade
 ## Notes-deDE: AtlasLoot Loot-Tabellen für Burning Crusade Instanzen
 ## Notes-zhCN: AtlasLoot Enhanced 的《燃烧的远征》副本掉落信息

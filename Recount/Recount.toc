@@ -1,6 +1,6 @@
 ﻿## Interface: 30300
 ## DefaultState: disabled
-## Title: Recount
+## Title: Recount - [|cffb1997fZuldazarWoW|r]
 ## Notes: Records Damage and Healing for Graph Based Display
 ## Notes-ruRU: Записывает урон и исцеления и отоброжает различные графики
 ## Notes-zhCN: 基于 Graph 裤开发的伤害/治疗统计插件

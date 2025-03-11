@@ -1,8 +1,8 @@
 ﻿## Interface: 50400
-## Title: Total RP 2 : Quests
-## Title-frFR: Total RP 2 : Quêtes
-## Title-esES: Total RP 2 : Misiones
-## Title-deDE: Total RP 2 : Quests
+## Title: Total RP 2 : Quests - [|cffb1997fZuldazarWoW|r]
+## Title-frFR: Total RP 2 : Quêtes - [|cffb1997fZuldazarWoW|r]
+## Title-esES: Total RP 2 : Misiones - [|cffb1997fZuldazarWoW|r]
+## Title-deDE: Total RP 2 : Quests - [|cffb1997fZuldazarWoW|r]
 ## Author: Telkostrasz
 ## Notes: Quests management
 ## Notes-frFR: Gestion des quêtes

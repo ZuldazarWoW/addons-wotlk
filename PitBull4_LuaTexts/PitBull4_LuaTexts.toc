@@ -1,13 +1,13 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: PitBull4 |r[|cffeda55fLua texts|r]
-## Title-deDE: PitBull4 |r[|cffeda55fLua Texte|r]
-## Title-esES: PitBull4 |r[|cffeda55fTextos Lua|r]
-## Title-frFR: PitBull4 |r[|cffeda55fTextes Lua|r]
-## Title-koKR: PitBull4 |r[|cffeda55fLua 문자|r]
-## Title-ruRU: PitBull4 |r[|cffeda55fLua коды|r]
-## Title-zhCN: PitBull4 |r[|cffeda55fLua文本|r]
-## Title-zhTW: PitBull4 |r[|cffeda55fLua文字|r]
+## Title: PitBull4 |r[|cffeda55fLua texts|r] - [|cffb1997fZuldazarWoW|r]
+## Title-deDE: PitBull4 |r[|cffeda55fLua Texte|r] - [|cffb1997fZuldazarWoW|r]
+## Title-esES: PitBull4 |r[|cffeda55fTextos Lua|r] - [|cffb1997fZuldazarWoW|r]
+## Title-frFR: PitBull4 |r[|cffeda55fTextes Lua|r] - [|cffb1997fZuldazarWoW|r]
+## Title-koKR: PitBull4 |r[|cffeda55fLua 문자|r] - [|cffb1997fZuldazarWoW|r]
+## Title-ruRU: PitBull4 |r[|cffeda55fLua коды|r] - [|cffb1997fZuldazarWoW|r]
+## Title-zhCN: PitBull4 |r[|cffeda55fLua文本|r] - [|cffb1997fZuldazarWoW|r]
+## Title-zhTW: PitBull4 |r[|cffeda55fLua文字|r] - [|cffb1997fZuldazarWoW|r]
 ## Notes: Text provider using Lua scripts to generate texts.
 ## Notes-deDE: Text-Bereitsteller, der Lua-Scripts zum Textgenerieren nutzt.
 ## Notes-esES: Proveedor de texto utilizando scripts Lua para generar textos.

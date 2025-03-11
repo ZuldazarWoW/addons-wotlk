@@ -1,8 +1,8 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: Necrosis
-## Title-ruRU: Necrosis (Русский)
-## Title-frFR: Necrosis (Français)
+## Title: Necrosis - [|cffb1997fZuldazarWoW|r]
+## Title-ruRU: Necrosis (Русский) - [|cffb1997fZuldazarWoW|r]
+## Title-frFR: Necrosis (Français) - [|cffb1997fZuldazarWoW|r]
 ## Notes: Warlock UI & Shard Management
 ## Notes-frFR: Gestion graphique des shards.
 ## Notes-ruRU: Менеджер заклинаний, камней и демонов для чернокнижника.

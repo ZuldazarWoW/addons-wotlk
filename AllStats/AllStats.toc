@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: All Stats
+## Title: All Stats - [|cffb1997fZuldazarWoW|r]
 ## Notes: Shows all of the stats from the dropdowns next to the paperdoll window.
 ## Version: 1.1
 ## Author: Ganoran

@@ -1,13 +1,13 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: PitBull4 |r[|cffeda55fCombat icon|r]
-## Title-deDE: PitBull4 |r[|cffeda55fKampfsymbol|r]
-## Title-esES: PitBull4 |r[|cffeda55fIcono de Combate|r]
-## Title-frFR: PitBull4 |r[|cffeda55fIcône de combat|r]
-## Title-koKR: PitBull4 |r[|cffeda55f전투 아이콘|r]
-## Title-ruRU: PitBull4 |r[|cffeda55fИконка боя|r]
-## Title-zhCN: PitBull4 |r[|cffeda55f战斗标志|r]
-## Title-zhTW: PitBull4 |r[|cffeda55f戰鬥標誌|r]
+## Title: PitBull4 |r[|cffeda55fCombat icon|r] - [|cffb1997fZuldazarWoW|r]
+## Title-deDE: PitBull4 |r[|cffeda55fKampfsymbol|r] - [|cffb1997fZuldazarWoW|r]
+## Title-esES: PitBull4 |r[|cffeda55fIcono de Combate|r] - [|cffb1997fZuldazarWoW|r]
+## Title-frFR: PitBull4 |r[|cffeda55fIcône de combat|r] - [|cffb1997fZuldazarWoW|r]
+## Title-koKR: PitBull4 |r[|cffeda55f전투 아이콘|r] - [|cffb1997fZuldazarWoW|r]
+## Title-ruRU: PitBull4 |r[|cffeda55fИконка боя|r] - [|cffb1997fZuldazarWoW|r]
+## Title-zhCN: PitBull4 |r[|cffeda55f战斗标志|r] - [|cffb1997fZuldazarWoW|r]
+## Title-zhTW: PitBull4 |r[|cffeda55f戰鬥標誌|r] - [|cffb1997fZuldazarWoW|r]
 ## Notes: Show an icon based on whether or not the unit is in combat.
 ## Notes-deDE: Zeigt ein Symbol, ob die Einheit sich im Kampf befindet oder nicht.
 ## Notes-esES: Muestra un icono basándose en si la unidad está en combate o no.

@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: Prat |cff8080ff3.0|r |r[|cffeda55fLibraries|r]
+## Title: Prat |cff8080ff3.0|r |r[|cffeda55fLibraries|r] - [|cffb1997fZuldazarWoW|r]
 ## Author: Sylvanaar
 ## X-License: GPLv3
 

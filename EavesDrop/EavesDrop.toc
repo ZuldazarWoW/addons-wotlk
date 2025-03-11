@@ -1,7 +1,7 @@
 ## Interface: 30200
 ## DefaultState: disabled
 ## Name: EavesDrop
-## Title: EavesDrop
+## Title: EavesDrop - [|cffb1997fZuldazarWoW|r]
 ## Notes: A simple combat log that displays events similar to SCT
 ## Version: 2.1
 ## Author: Grayhoof

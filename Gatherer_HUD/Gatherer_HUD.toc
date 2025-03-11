@@ -1,9 +1,9 @@
 ## Interface: 30200
 ## DefaultState: disabled
 ## 
-## Title: Gatherer Heads-Up Display Plugin
-## Title-frFR: Gatherer Heads-Up Display Plugin
-## Title-deDE: Gatherer Heads-Up Display Plugin
+## Title: Gatherer Heads-Up Display Plugin - [|cffb1997fZuldazarWoW|r]
+## Title-frFR: Gatherer Heads-Up Display Plugin - [|cffb1997fZuldazarWoW|r]
+## Title-deDE: Gatherer Heads-Up Display Plugin - [|cffb1997fZuldazarWoW|r]
 ## 
 ## Notes: The HUD is a navigation component that allows you to track the location of gatherables on your screen in a heads-up style overlay.
 ## Notes-frFR: The HUD is a navigation component that allows you to track the location of gatherables on your screen in a heads-up style overlay.

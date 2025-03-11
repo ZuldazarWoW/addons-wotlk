@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: Dominos
+## Title: Dominos - [|cffb1997fZuldazarWoW|r]
 ## Notes: A main actionbar replacement
 ## Author: Tuller
 ## Version: 1.16.2

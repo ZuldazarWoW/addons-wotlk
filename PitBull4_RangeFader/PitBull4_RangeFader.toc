@@ -1,13 +1,13 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: PitBull4 |r[|cffeda55fRange fader|r]
-## Title-deDE: PitBull4 |r[|cffeda55fReichweite-Fader|r]
-## Title-esES: PitBull4 |r[|cffeda55fAtenuador de Alcance|r]
-## Title-frFR: PitBull4 |r[|cffeda55fFondu de portée|r]
-## Title-koKR: PitBull4 |r[|cffeda55f거리에 따른 투명도|r]
-## Title-ruRU: PitBull4 |r[|cffeda55fФэйдер расстояния|r]
-## Title-zhCN: PitBull4 |r[|cffeda55f距离淡出|r]
-## Title-zhTW: PitBull4 |r[|cffeda55f距離淡出|r]
+## Title: PitBull4 |r[|cffeda55fRange fader|r] - [|cffb1997fZuldazarWoW|r]
+## Title-deDE: PitBull4 |r[|cffeda55fReichweite-Fader|r] - [|cffb1997fZuldazarWoW|r]
+## Title-esES: PitBull4 |r[|cffeda55fAtenuador de Alcance|r] - [|cffb1997fZuldazarWoW|r]
+## Title-frFR: PitBull4 |r[|cffeda55fFondu de portée|r] - [|cffb1997fZuldazarWoW|r]
+## Title-koKR: PitBull4 |r[|cffeda55f거리에 따른 투명도|r] - [|cffb1997fZuldazarWoW|r]
+## Title-ruRU: PitBull4 |r[|cffeda55fФэйдер расстояния|r] - [|cffb1997fZuldazarWoW|r]
+## Title-zhCN: PitBull4 |r[|cffeda55f距离淡出|r] - [|cffb1997fZuldazarWoW|r]
+## Title-zhTW: PitBull4 |r[|cffeda55f距離淡出|r] - [|cffb1997fZuldazarWoW|r]
 ## Notes: Make the unit frame fade if out of range.
 ## Notes-deDE: Blendet den Einheitsrahmen aus, wenn man außer Reichweite ist.
 ## Notes-esES: Hace que la unidad se atenue cuando está fuera de alcance.

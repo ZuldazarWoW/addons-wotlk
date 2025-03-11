@@ -1,4 +1,4 @@
-## Title: Swatter
+## Title: Swatter - [|cffb1997fZuldazarWoW|r]
 ## Notes: Debugging tool for handling and displaying of error messages in a useful way.
 ##
 ## Interface: 30300

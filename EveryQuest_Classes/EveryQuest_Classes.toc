@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: Every|cffffffffQuest|r2 Classes Quests
+## Title: Every|cffffffffQuest|r2 Classes Quests - [|cffb1997fZuldazarWoW|r]
 ## Notes: Contains a list of quests for Classes
 ## Author: kandarz
 ## X-Email: kandarz@gmail.com

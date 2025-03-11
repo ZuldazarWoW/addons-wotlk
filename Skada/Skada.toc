@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: Skada
+## Title: Skada - [|cffb1997fZuldazarWoW|r]
 ## Notes: Modular damage meter.
 ## Notes-koKR: 데미지 미터 모듈입니다.
 ## Notes-zhTW: 模組化的傷害統計。

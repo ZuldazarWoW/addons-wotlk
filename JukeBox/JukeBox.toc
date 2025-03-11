@@ -1,6 +1,6 @@
 ## Interface: 30100
 ## DefaultState: disabled
-## Title: JukeBox
+## Title: JukeBox - [|cffb1997fZuldazarWoW|r]
 ## Author: MageAsh
 ## Version: 1.2.1
 ## Notes: A JukeBox application which allows you to play in-game music files, your own custom music and playlists. Open using /jukebox or /jb. Type /jb help for more commands.

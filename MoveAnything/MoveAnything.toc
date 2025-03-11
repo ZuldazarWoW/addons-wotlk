@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: MoveAnything
+## Title: MoveAnything - [|cffb1997fZuldazarWoW|r]
 ## Notes: 3.3.5-10 by Wagthaa
 ## Version: 3.3.5-10
 ## Author: Classic: Skrag - Mod: Jason - TBC: Vincent - WotLK: Wagthaa

@@ -1,4 +1,4 @@
-## Title: Auc-Auctioneer |cff774422(core)
+## Title: Auc-Auctioneer  - [|cffb1997fZuldazarWoW|r]
 ## Notes: Auctioneer assists players to track item values; whether buying or selling. You must enable at least one statistics extension (like Auc:Stats:Simple) to begin.  Combines with other modules to form the powerful, fully configurable Auctioneer Suite.
 ##
 ## Interface: 30300

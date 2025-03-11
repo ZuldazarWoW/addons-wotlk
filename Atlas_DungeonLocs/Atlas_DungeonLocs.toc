@@ -1,10 +1,10 @@
 ﻿## Interface: 30300
 ## DefaultState: disabled
-## Title: Atlas |r|cFF0099FF[Dungeon Locs]|r
-## Title-deDE: Atlas |r|cFF0099FF[Instanz-Standorte]|r
-## Title-ruRU: Atlas |r|cFF0099FF[Расп. подземелий]|r
-## Title-zhTW: |r|cFF0099FF[地圖]|rAtlas 地下城位置地圖
-## Title-zhCN: Atlas |r|cFF0099FF[副本分布图]|r
+## Title: Atlas |r|cFF0099FF[Dungeon Locs]|r - [|cffb1997fZuldazarWoW|r]
+## Title-deDE: Atlas |r|cFF0099FF[Instanz-Standorte]|r - [|cffb1997fZuldazarWoW|r]
+## Title-ruRU: Atlas |r|cFF0099FF[Расп. подземелий]|r - [|cffb1997fZuldazarWoW|r]
+## Title-zhTW: |r|cFF0099FF[地圖]|rAtlas 地下城位置地圖 - [|cffb1997fZuldazarWoW|r]
+## Title-zhCN: Atlas |r|cFF0099FF[副本分布图]|r - [|cffb1997fZuldazarWoW|r]
 ## Notes: Dungeon Locations
 ## Notes-ruRU: Расположение подземелий
 ## Notes-deDE: Instanz-Standorte

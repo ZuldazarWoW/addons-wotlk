@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: Overachiever - Trade
+## Title: Overachiever - Trade - [|cffb1997fZuldazarWoW|r]
 ## Version: 0.56
 ## Author: Tuhljin
 ## Notes: Trade Skills module.

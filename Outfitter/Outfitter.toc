@@ -2,7 +2,7 @@
 ## DefaultState: disabled
 ## X-Compatible-With: 40000
 ## Author: John Stephen
-## Title: Outfitter
+## Title: Outfitter - [|cffb1997fZuldazarWoW|r]
 ## Version: 5.0
 ## Notes: Clothing and weapon management and automated equipment changes
 ## OptionalDeps: Titan, FuBar, TankPoints, ButtonFacade

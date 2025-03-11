@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: Tour Guide - The Midsummer Fire Festival
+## Title: Tour Guide - The Midsummer Fire Festival - [|cffb1997fZuldazarWoW|r]
 ## Notes: An easy-to-follow guide for visiting all of the Midsummer Festival bonfires.
 ## Author: Ethan Centaurai
 ## Version: 1.0.1

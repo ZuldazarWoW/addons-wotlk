@@ -1,4 +1,5 @@
 ## Interface: 30300
+## Title: Talented_SpecTabs - [|cffb1997fZuldazarWoW|r]
 ## DefaultState: disabled
 ## Note: Add Spec Tabs to the Talented Frame.
 ## Dependency: Talented

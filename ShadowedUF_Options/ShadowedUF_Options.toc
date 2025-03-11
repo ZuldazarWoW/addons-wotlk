@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: Shadowed UF (Options)
+## Title: Shadowed UF (Options) - [|cffb1997fZuldazarWoW|r]
 ## Notes: Configuration for Shadowed Unit Frames.
 ## Author: Shadowed
 ## LoadOnDemand: true

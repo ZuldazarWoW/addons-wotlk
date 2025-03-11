@@ -1,13 +1,13 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: PitBull4 |r[|cffeda55fHappiness icon|r]
-## Title-deDE: PitBull4 |r[|cffeda55fZufriedenheitssymbol|r]
-## Title-esES: PitBull4 |r[|cffeda55fIcono de felicidad|r]
-## Title-frFR: PitBull4 |r[|cffeda55fIcône d'humeur|r]
-## Title-koKR: PitBull4 |r[|cffeda55f만족도 아이콘|r]
-## Title-ruRU: PitBull4 |r[|cffeda55fИконка настроения|r]
-## Title-zhCN: PitBull4 |r[|cffeda55f快乐度图标|r]
-## Title-zhTW: PitBull4 |r[|cffeda55f快樂度圖示|r]
+## Title: PitBull4 |r[|cffeda55fHappiness icon|r] - [|cffb1997fZuldazarWoW|r]
+## Title-deDE: PitBull4 |r[|cffeda55fZufriedenheitssymbol|r] - [|cffb1997fZuldazarWoW|r]
+## Title-esES: PitBull4 |r[|cffeda55fIcono de felicidad|r] - [|cffb1997fZuldazarWoW|r]
+## Title-frFR: PitBull4 |r[|cffeda55fIcône d'humeur|r] - [|cffb1997fZuldazarWoW|r]
+## Title-koKR: PitBull4 |r[|cffeda55f만족도 아이콘|r] - [|cffb1997fZuldazarWoW|r]
+## Title-ruRU: PitBull4 |r[|cffeda55fИконка настроения|r] - [|cffb1997fZuldazarWoW|r]
+## Title-zhCN: PitBull4 |r[|cffeda55f快乐度图标|r] - [|cffb1997fZuldazarWoW|r]
+## Title-zhTW: PitBull4 |r[|cffeda55f快樂度圖示|r] - [|cffb1997fZuldazarWoW|r]
 ## Notes: Show an icon on the pet frame to indicate its happiness.
 ## Notes-deDE: Zeigt ein Symbol auf dem Begleiterrahmen, das die Zufriedenheit darstellt.
 ## Notes-esES: Muestra un icono en el marco de mascota para indicar la felicidad.

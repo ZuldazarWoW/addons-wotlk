@@ -1,4 +1,5 @@
 ## Interface: 30300
+## Title: Talented_GlyphFrame  - [|cffb1997fZuldazarWoW|r]
 ## DefaultState: disabled
 ## Note: Talented Glyph Frame
 ## Dependency: Talented

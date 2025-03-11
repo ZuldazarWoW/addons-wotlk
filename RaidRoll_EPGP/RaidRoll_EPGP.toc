@@ -1,7 +1,7 @@
 ## Interface: 40000
 ## DefaultState: disabled
 ## X-Compatible-With: 40000
-## Title: Raid Roll - EPGP
+## Title: Raid Roll - EPGP - [|cffb1997fZuldazarWoW|r]
 ## Author: Musou
 ## Notes: Used to track EPGP
 ## email: killerpet@gmail.com

@@ -1,13 +1,13 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: PitBull4 |r[|cffeda55fCombat fader|r]
-## Title-deDE: PitBull4 |r[|cffeda55fKampf-Fader|r]
-## Title-esES: PitBull4 |r[|cffeda55fAtenuador de Combate|r]
-## Title-frFR: PitBull4 |r[|cffeda55fFondu de combat|r]
-## Title-koKR: PitBull4 |r[|cffeda55f전투 상태 투명도|r]
-## Title-ruRU: PitBull4 |r[|cffeda55fФэйдер режима боя|r]
-## Title-zhCN: PitBull4 |r[|cffeda55f战斗淡出|r]
-## Title-zhTW: PitBull4 |r[|cffeda55f戰鬥淡出|r]
+## Title: PitBull4 |r[|cffeda55fCombat fader|r] - [|cffb1997fZuldazarWoW|r]
+## Title-deDE: PitBull4 |r[|cffeda55fKampf-Fader|r] - [|cffb1997fZuldazarWoW|r]
+## Title-esES: PitBull4 |r[|cffeda55fAtenuador de Combate|r] - [|cffb1997fZuldazarWoW|r]
+## Title-frFR: PitBull4 |r[|cffeda55fFondu de combat|r] - [|cffb1997fZuldazarWoW|r]
+## Title-koKR: PitBull4 |r[|cffeda55f전투 상태 투명도|r] - [|cffb1997fZuldazarWoW|r]
+## Title-ruRU: PitBull4 |r[|cffeda55fФэйдер режима боя|r] - [|cffb1997fZuldazarWoW|r]
+## Title-zhCN: PitBull4 |r[|cffeda55f战斗淡出|r] - [|cffb1997fZuldazarWoW|r]
+## Title-zhTW: PitBull4 |r[|cffeda55f戰鬥淡出|r] - [|cffb1997fZuldazarWoW|r]
 ## Notes: Make the unit frame fade if out of combat.
 ## Notes-deDE: Blendet den Rahmen außerhalb des Kampfes aus.
 ## Notes-esES: Permite que el marco de la unidad se atenue cuando se está fuera de combate.

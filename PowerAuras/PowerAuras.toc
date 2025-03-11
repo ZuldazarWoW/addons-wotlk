@@ -1,6 +1,6 @@
 ﻿## Interface: 30300
 ## DefaultState: disabled
-## Title: Power Auras Classic
+## Title: Power Auras Classic - [|cffb1997fZuldazarWoW|r]
 ## Author: Smacker 'lolcat',Driizt 'classic',Garstiger 'continued',Sinsthar 'base'
 ## Version: 3.0.0S
 ## Notes: Cool Effects around the player for ingame events.                                 Authors: |cff7f7fff-Sinsthar-, -Garstiger-, -Driizt-, and -Smacker-|r

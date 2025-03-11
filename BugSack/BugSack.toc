@@ -1,5 +1,5 @@
 ﻿## Interface: 30300
-## Title: BugSack
+## Title: BugSack - [|cffb1997fZuldazarWoW|r]
 ## Version: 3.3
 ## Notes: Toss those bugs inna sack.
 ## Notes-zhCN: 错误信息收集器。

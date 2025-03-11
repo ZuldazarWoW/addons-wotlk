@@ -1,7 +1,7 @@
 ## Interface: 30300
 ## DefaultState: disabled
 ## Version: 3.0.9
-## Title: Omen3
+## Title: Omen3 - [|cffb1997fZuldazarWoW|r]
 ## Notes: A lightweight, flexible, multi-target threat meter.
 ## Notes-ruRU: Лёгкий, гибкий, измеритель угрозы.
 ## Notes-frFR: Un "threat meter" léger, flexible et multi-cibles.

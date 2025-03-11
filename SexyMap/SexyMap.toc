@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: SexyMap
+## Title: SexyMap - [|cffb1997fZuldazarWoW|r]
 ## Notes: Spice up ye olde minimap with some sexytime options.
 ## Notes-zhCN: 热辣小地图和一些性感计时器选项。
 ## Author: Antiarc

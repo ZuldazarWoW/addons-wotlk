@@ -1,13 +1,13 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: PitBull4 |r[|cffeda55fAura|r]
-## Title-deDE: PitBull4 |r[|cffeda55fAura|r]
-## Title-esES: PitBull4 |r[|cffeda55fAura|r]
-## Title-frFR: PitBull4 |r[|cffeda55fAura|r]
-## Title-koKR: PitBull4 |r[|cffeda55f오오라|r]
-## Title-ruRU: PitBull4 |r[|cffeda55fАура |r]
-## Title-zhCN: PitBull4 |r[|cffeda55f法术效果|r]
-## Title-zhTW: PitBull4 |r[|cffeda55f光環|r]
+## Title: PitBull4 |r[|cffeda55fAura|r] - [|cffb1997fZuldazarWoW|r]
+## Title-deDE: PitBull4 |r[|cffeda55fAura|r] - [|cffb1997fZuldazarWoW|r]
+## Title-esES: PitBull4 |r[|cffeda55fAura|r] - [|cffb1997fZuldazarWoW|r]
+## Title-frFR: PitBull4 |r[|cffeda55fAura|r] - [|cffb1997fZuldazarWoW|r]
+## Title-koKR: PitBull4 |r[|cffeda55f오오라|r] - [|cffb1997fZuldazarWoW|r]
+## Title-ruRU: PitBull4 |r[|cffeda55fАура |r] - [|cffb1997fZuldazarWoW|r]
+## Title-zhCN: PitBull4 |r[|cffeda55f法术效果|r] - [|cffb1997fZuldazarWoW|r]
+## Title-zhTW: PitBull4 |r[|cffeda55f光環|r] - [|cffb1997fZuldazarWoW|r]
 ## Notes: Shows buffs and debuffs for PitBull4 frames.
 ## Notes-deDE: Zeigt Buffs und Debuffs an den Einheitenrahmen an.
 ## Notes-esES: Muestra los Buffs y Debuffs para los frames PitBull4...

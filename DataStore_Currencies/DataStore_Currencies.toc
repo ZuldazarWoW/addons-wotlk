@@ -1,6 +1,6 @@
 ﻿## Interface: 30300
 ## DefaultState: disabled
-## Title: DataStore_Currencies
+## Title: DataStore_Currencies - [|cffb1997fZuldazarWoW|r]
 ## Notes: Stores information about character currencies
 ## Author: Thaoky (EU-Marécages de Zangar)
 ## Version: 3.3.001

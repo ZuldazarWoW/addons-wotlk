@@ -1,13 +1,13 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: PitBull Unit Frames 4.0
-## Title-deDE: PitBull Unit Frames 4.0
-## Title-esES: PitBull Unit Frames 4.0
-## Title-frFR: PitBull Unit Frames 4.0
-## Title-koKR: PitBull Unit Frames 4.0
-## Title-ruRU: Pitbull 4.0
-## Title-zhCN: PitBull Unit Frames 4.0
-## Title-zhTW: PitBull Unit Frames 4.0
+## Title: PitBull Unit Frames 4.0 - [|cffb1997fZuldazarWoW|r]
+## Title-deDE: PitBull Unit Frames 4.0 - [|cffb1997fZuldazarWoW|r]
+## Title-esES: PitBull Unit Frames 4.0 - [|cffb1997fZuldazarWoW|r]
+## Title-frFR: PitBull Unit Frames 4.0 - [|cffb1997fZuldazarWoW|r]
+## Title-koKR: PitBull Unit Frames 4.0 - [|cffb1997fZuldazarWoW|r]
+## Title-ruRU: Pitbull 4.0 - [|cffb1997fZuldazarWoW|r]
+## Title-zhCN: PitBull Unit Frames 4.0 - [|cffb1997fZuldazarWoW|r]
+## Title-zhTW: PitBull Unit Frames 4.0 - [|cffb1997fZuldazarWoW|r]
 ## Notes: Dog-themed unit frames. Woof. Arf. Yip.
 ## Notes-deDE: Dog-themed unit frames. Woof. Arf. Yip.
 ## Notes-esES: Dog-themed unit frames. Woof. Arf. Yip.

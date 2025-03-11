@@ -5,7 +5,7 @@
 ## X-Curse-Project-ID: inline-aura
 ## X-Curse-Repository-ID: wow/inline-aura/mainline
 
-## Title: Inline Aura - Configuration GUI
+## Title: Inline Aura - Configuration GUI - [|cffb1997fZuldazarWoW|r]
 ## Author: Adirelle
 ## LoadOnDemand: 1
 ## Dependencies: InlineAura

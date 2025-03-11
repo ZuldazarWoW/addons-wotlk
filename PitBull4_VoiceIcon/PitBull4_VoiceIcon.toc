@@ -1,13 +1,13 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: PitBull4 |r[|cffeda55fVoiceIcon|r]
-## Title-deDE: PitBull4 |r[|cffeda55fVoiceIcon|r]
-## Title-esES: PitBull4 |r[|cffeda55fVoiceIcon|r]
-## Title-frFR: PitBull4 |r[|cffeda55fVoiceIcon|r]
-## Title-koKR: PitBull4 |r[|cffeda55fVoiceIcon|r]
-## Title-ruRU: PitBull4 |r[|cffeda55fVoiceIcon|r]
-## Title-zhCN: PitBull4 |r[|cffeda55fVoiceIcon|r]
-## Title-zhTW: PitBull4 |r[|cffeda55fVoiceIcon|r]
+## Title: PitBull4 |r[|cffeda55fVoiceIcon|r] - [|cffb1997fZuldazarWoW|r]
+## Title-deDE: PitBull4 |r[|cffeda55fVoiceIcon|r] - [|cffb1997fZuldazarWoW|r]
+## Title-esES: PitBull4 |r[|cffeda55fVoiceIcon|r] - [|cffb1997fZuldazarWoW|r]
+## Title-frFR: PitBull4 |r[|cffeda55fVoiceIcon|r] - [|cffb1997fZuldazarWoW|r]
+## Title-koKR: PitBull4 |r[|cffeda55fVoiceIcon|r] - [|cffb1997fZuldazarWoW|r]
+## Title-ruRU: PitBull4 |r[|cffeda55fVoiceIcon|r] - [|cffb1997fZuldazarWoW|r]
+## Title-zhCN: PitBull4 |r[|cffeda55fVoiceIcon|r] - [|cffb1997fZuldazarWoW|r]
+## Title-zhTW: PitBull4 |r[|cffeda55fVoiceIcon|r] - [|cffb1997fZuldazarWoW|r]
 ## Notes: Show an icon based on whether or not the unit's voice status.
 ## Notes-deDE: Zeigt ein Symbol abhängig vom Stimmenstatus der Einheit.
 ## Notes-esES: Muestra un icono basándose en el estado de voz de la unidad.

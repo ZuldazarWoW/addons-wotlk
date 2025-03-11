@@ -1,5 +1,5 @@
 ﻿## Interface: 30300
-## Title: QuestTranslator
+## Title: QuestTranslator - [|cffb1997fZuldazarWoW|r]
 ## Version: 1.05
 ## Notes: AddOn displays the translated quest informations in a separete window.
 ## Notes_PL: Dodatek wyswietla przetlumaczone questy w oddzielnym oknie.

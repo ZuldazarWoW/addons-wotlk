@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: Bagnon Tooltips
+## Title: Bagnon Tooltips - [|cffb1997fZuldazarWoW|r]
 ## Author: Tuller
 ## Notes: Tooltips for telling who has what
 ## Notes-zhCN: 物品提示上显示同帐号下其他角色银行/背包黑该物品情况

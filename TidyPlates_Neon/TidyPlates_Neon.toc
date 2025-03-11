@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: Tidy Plates: Neon Theme
+## Title: Tidy Plates: Neon Theme - [|cffb1997fZuldazarWoW|r]
 ## Notes: It glows!  
 ## Author: Danltiger aka Binny
 ## Dependencies: TidyPlates

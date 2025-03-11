@@ -1,6 +1,6 @@
 ﻿## Interface: 30300
 ## DefaultState: disabled
-## Title: AtlasLoot
+## Title: AtlasLoot - [|cffb1997fZuldazarWoW|r]
 ## Notes: Shows the possible loot from the bosses
 ## Author: Hegarol
 ## Version: v5.11.04

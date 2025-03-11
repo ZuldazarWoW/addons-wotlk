@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: Talented
+## Title: Talented - [|cffb1997fZuldazarWoW|r]
 ## Name: Talented
 ## Notes: The Talent Template Editor
 ## Author: Jerry

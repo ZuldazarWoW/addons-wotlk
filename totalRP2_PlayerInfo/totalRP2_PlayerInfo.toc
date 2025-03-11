@@ -1,8 +1,8 @@
 ﻿## Interface: 50400
-## Title: Total RP 2 : Character sheet
-## Title-frFR: Total RP 2 : Informations du joueur
-## Title-esES: Total RP 2 : Ficha de personaje
-## Title-deDE: Total RP 2 : Charakter Eigenschaften
+## Title: Total RP 2 : Character sheet - [|cffb1997fZuldazarWoW|r]
+## Title-frFR: Total RP 2 : Informations du joueur - [|cffb1997fZuldazarWoW|r]
+## Title-esES: Total RP 2 : Ficha de personaje - [|cffb1997fZuldazarWoW|r]
+## Title-deDE: Total RP 2 : Charakter Eigenschaften - [|cffb1997fZuldazarWoW|r]
 ## Author: Telkostrasz
 ## Notes: Character sheet management
 ## Notes-frFR: Gestion de la fiche du personnage

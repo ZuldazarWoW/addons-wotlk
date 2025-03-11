@@ -1,6 +1,6 @@
 ## Interface: 30000
 ## DefaultState: disabled
-## Title : Super Duper Macro
+## Title : Super Duper Macro - [|cffb1997fZuldazarWoW|r]
 ## Notes: Enables creation of incredibly long macros.
 ## Author: hypehuman
 ## Version: 1.8.3

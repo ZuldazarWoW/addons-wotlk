@@ -1,13 +1,13 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: PitBull4 |r[|cffeda55fHighlight|r]
-## Title-deDE: PitBull4 |r[|cffeda55fHervorhebung|r]
-## Title-esES: PitBull4 |r[|cffeda55fResaltar.|r]
-## Title-frFR: PitBull4 |r[|cffeda55fSurbrillance|r]
-## Title-koKR: PitBull4 |r[|cffeda55f강조|r]
-## Title-ruRU: PitBull4 |r[|cffeda55fПодсветка|r]
-## Title-zhCN: PitBull4 |r[|cffeda55f高亮|r]
-## Title-zhTW: PitBull4 |r[|cffeda55f高亮|r]
+## Title: PitBull4 |r[|cffeda55fHighlight|r] - [|cffb1997fZuldazarWoW|r]
+## Title-deDE: PitBull4 |r[|cffeda55fHervorhebung|r] - [|cffb1997fZuldazarWoW|r]
+## Title-esES: PitBull4 |r[|cffeda55fResaltar.|r] - [|cffb1997fZuldazarWoW|r]
+## Title-frFR: PitBull4 |r[|cffeda55fSurbrillance|r] - [|cffb1997fZuldazarWoW|r]
+## Title-koKR: PitBull4 |r[|cffeda55f강조|r] - [|cffb1997fZuldazarWoW|r]
+## Title-ruRU: PitBull4 |r[|cffeda55fПодсветка|r] - [|cffb1997fZuldazarWoW|r]
+## Title-zhCN: PitBull4 |r[|cffeda55f高亮|r] - [|cffb1997fZuldazarWoW|r]
+## Title-zhTW: PitBull4 |r[|cffeda55f高亮|r] - [|cffb1997fZuldazarWoW|r]
 ## Notes: Show a highlight when hovering or targeting.
 ## Notes-deDE: Zeigt eine Hervorhebung am Rahmen, wenn sich der Mauszeiger darüber befindet oder die Einheit das Ziel ist.
 ## Notes-esES: Muestra un resaltado cuando se pasa por encima o se marca.

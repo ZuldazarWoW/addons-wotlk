@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: Tidy Plates
+## Title: Tidy Plates - [|cffb1997fZuldazarWoW|r]
 ## Notes: Modifies the default Blizzard nameplates.  Brush your teeth! Do it now!
 ## Author: Binny the Love Fool
 ## Version: 5.13.1 (R36)

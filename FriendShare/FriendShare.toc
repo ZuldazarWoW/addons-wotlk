@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: Friend & Ignore Share v1.4.2
+## Title: Friend & Ignore Share v1.4.2 - [|cffb1997fZuldazarWoW|r]
 ## Notes: Synchronizes your friends and ignore lists across your alts.
 ## Author: Vimrasha
 ## OptionalDeps:

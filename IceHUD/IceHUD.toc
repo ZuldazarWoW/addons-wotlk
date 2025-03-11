@@ -1,7 +1,7 @@
 ## Interface: 30300
 ## DefaultState: disabled
 ## Author: Parnic, originally created by Iceroth
-## Name: IceHUD
+## Name: IceHUD - [|cffb1997fZuldazarWoW|r]
 ## Title: IceHUD |cff7fff7f -Ace3-|r
 ## Notes: Another HUD addon
 ## Version: 1.6.12 (Revision: 609)

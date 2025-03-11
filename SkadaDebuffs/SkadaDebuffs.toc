@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: Skada |r[|caaedc99fDebuffs Uptime|r]
+## Title: Skada |r[|caaedc99fDebuffs Uptime|r] - [|cffb1997fZuldazarWoW|r]
 ## Notes: Adds a Debuffs uptime mode and data collection to Skada.
 ## Author: Zarnivoop
 ## Version: 1.0

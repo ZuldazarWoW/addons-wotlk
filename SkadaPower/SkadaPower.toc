@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: Skada |r[|caaedc99fPower|r]
+## Title: Skada |r[|caaedc99fPower|r] - [|cffb1997fZuldazarWoW|r]
 ## Notes: Adds Power gained modes and data collection to Skada.
 ## Author: Zarnivoop
 ## Version: 1.0

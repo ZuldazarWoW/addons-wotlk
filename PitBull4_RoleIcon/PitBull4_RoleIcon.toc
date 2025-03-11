@@ -1,13 +1,13 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: PitBull4 |r[|cffeda55fRole icon|r]
-## Title-deDE: PitBull4 |r[|cffeda55fRollensymbol|r]
-## Title-esES: PitBull4 |r[|cffeda55fIcono de rol|r]
-## Title-frFR: PitBull4 |r[|cffeda55fIcône de rôle|r]
-## Title-koKR: PitBull4 |r[|cffeda55fRole icon|r]
-## Title-ruRU: PitBull4 |r[|cffeda55fРоль персонажа|r]
-## Title-zhCN: PitBull4 |r[|cffeda55f角色图标|r]
-## Title-zhTW: PitBull4 |r[|cffeda55f隊伍角色圖示|r]
+## Title: PitBull4 |r[|cffeda55fRole icon|r] - [|cffb1997fZuldazarWoW|r]
+## Title-deDE: PitBull4 |r[|cffeda55fRollensymbol|r] - [|cffb1997fZuldazarWoW|r]
+## Title-esES: PitBull4 |r[|cffeda55fIcono de rol|r] - [|cffb1997fZuldazarWoW|r]
+## Title-frFR: PitBull4 |r[|cffeda55fIcône de rôle|r] - [|cffb1997fZuldazarWoW|r]
+## Title-koKR: PitBull4 |r[|cffeda55fRole icon|r] - [|cffb1997fZuldazarWoW|r]
+## Title-ruRU: PitBull4 |r[|cffeda55fРоль персонажа|r] - [|cffb1997fZuldazarWoW|r]
+## Title-zhCN: PitBull4 |r[|cffeda55f角色图标|r] - [|cffb1997fZuldazarWoW|r]
+## Title-zhTW: PitBull4 |r[|cffeda55f隊伍角色圖示|r] - [|cffb1997fZuldazarWoW|r]
 ## Notes: Show an icon on the unit frame based on which Role it is.
 ## Notes-deDE: Zeigt die Rolle der Einheit als Symbol an.
 ## Notes-esES: Muestra un icono en el marco de la unidad basándose en su Rol.

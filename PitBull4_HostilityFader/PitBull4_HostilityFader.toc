@@ -1,13 +1,13 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: PitBull4 |r[|cffeda55fHostility fader|r]
-## Title-deDE: PitBull4 |r[|cffeda55fFeindseligkeitsfader|r]
-## Title-esES: PitBull4 |r[|cffeda55fDesvanecimiento por hostilidad|r]
-## Title-frFR: PitBull4 |r[|cffeda55fFondu d'hostilité|r]
-## Title-koKR: PitBull4 |r[|cffeda55fHostility fader|r]
-## Title-ruRU: PitBull4 |r[|cffeda55fФейдер враждебности|r]
-## Title-zhCN: PitBull4 |r[|cffeda55f敌对淡出|r]
-## Title-zhTW: PitBull4 |r[|cffeda55f敵對淡出|r]
+## Title: PitBull4 |r[|cffeda55fHostility fader|r] - [|cffb1997fZuldazarWoW|r]
+## Title-deDE: PitBull4 |r[|cffeda55fFeindseligkeitsfader|r] - [|cffb1997fZuldazarWoW|r]
+## Title-esES: PitBull4 |r[|cffeda55fDesvanecimiento por hostilidad|r] - [|cffb1997fZuldazarWoW|r]
+## Title-frFR: PitBull4 |r[|cffeda55fFondu d'hostilité|r] - [|cffb1997fZuldazarWoW|r]
+## Title-koKR: PitBull4 |r[|cffeda55fHostility fader|r] - [|cffb1997fZuldazarWoW|r]
+## Title-ruRU: PitBull4 |r[|cffeda55fФейдер враждебности|r] - [|cffb1997fZuldazarWoW|r]
+## Title-zhCN: PitBull4 |r[|cffeda55f敌对淡出|r] - [|cffb1997fZuldazarWoW|r]
+## Title-zhTW: PitBull4 |r[|cffeda55f敵對淡出|r] - [|cffb1997fZuldazarWoW|r]
 ## Notes: Make the unit frame fade depending on the units hostility.
 ## Notes-deDE: Blendet den Rahmen in Abhängigkeit der Feindseligkeit aus.
 ## Notes-esES: Hace que el marco se desvanezca dependiendo de la hostilidad de las unidades

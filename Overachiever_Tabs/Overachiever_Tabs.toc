@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: Overachiever - Tabs
+## Title: Overachiever - Tabs - [|cffb1997fZuldazarWoW|r]
 ## Version: 0.56
 ## Author: Tuhljin
 ## Notes: Achievement frame tabs module.

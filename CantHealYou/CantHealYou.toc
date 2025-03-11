@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title:  Can't Heal You 3.12
+## Title:  Can't Heal You  - [|cffb1997fZuldazarWoW|r]
 ## Version:  3.12
 ## Author: Travis S. Casey
 ## X-Email: efindel@gmail.com

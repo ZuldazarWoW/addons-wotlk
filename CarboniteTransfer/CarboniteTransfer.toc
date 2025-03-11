@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: Carbonite Transfer
+## Title: Carbonite Transfer - [|cffb1997fZuldazarWoW|r]
 ## Version: 1.01
 ## Author: Carbon Based Creations, LLC
 ## Notes: Copyright 2008-2010 Carbon Based Creations, LLC.  Used to transfer Warehouse data between accounts.

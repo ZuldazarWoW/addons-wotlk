@@ -1,13 +1,13 @@
 ## Interface: 30300
 ## DefaultState: disabled
-## Title: PitBull4 |r[|cffeda55fPortrait|r]
-## Title-deDE: PitBull4 |r[|cffeda55fPorträt|r]
-## Title-esES: PitBull4 |r[|cffeda55fRetrato|r]
-## Title-frFR: PitBull4 |r[|cffeda55fPortrait|r]
-## Title-koKR: PitBull4 |r[|cffeda55f초상화|r]
-## Title-ruRU: PitBull4 |r[|cffeda55fПортрет|r]
-## Title-zhCN: PitBull4 |r[|cffeda55f头像|r]
-## Title-zhTW: PitBull4 |r[|cffeda55f頭像|r]
+## Title: PitBull4 |r[|cffeda55fPortrait|r] - [|cffb1997fZuldazarWoW|r]
+## Title-deDE: PitBull4 |r[|cffeda55fPorträt|r] - [|cffb1997fZuldazarWoW|r]
+## Title-esES: PitBull4 |r[|cffeda55fRetrato|r] - [|cffb1997fZuldazarWoW|r]
+## Title-frFR: PitBull4 |r[|cffeda55fPortrait|r] - [|cffb1997fZuldazarWoW|r]
+## Title-koKR: PitBull4 |r[|cffeda55f초상화|r] - [|cffb1997fZuldazarWoW|r]
+## Title-ruRU: PitBull4 |r[|cffeda55fПортрет|r] - [|cffb1997fZuldazarWoW|r]
+## Title-zhCN: PitBull4 |r[|cffeda55f头像|r] - [|cffb1997fZuldazarWoW|r]
+## Title-zhTW: PitBull4 |r[|cffeda55f頭像|r] - [|cffb1997fZuldazarWoW|r]
 ## Notes: Show a portrait of the unit.
 ## Notes-deDE: Zeigt ein Porträt der Einheit.
 ## Notes-esES: Muestra un retrato en la unidad
