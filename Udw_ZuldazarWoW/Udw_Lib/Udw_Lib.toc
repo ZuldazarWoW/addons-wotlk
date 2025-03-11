@@ -1,0 +1,6 @@
+## Interface: 30300
+## Title: Udw_Lib - [|cffb1997fZuldazarWoW|r]
+## Author: Yehonal
+## Version: 0.0.1.0
+## DefaultState: disabled
+lib.lua

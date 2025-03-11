@@ -1,0 +1,15 @@
+﻿## Interface: 50400
+## Title: Total RP 2 : Documents - [|cffb1997fZuldazarWoW|r]
+## Title-esES: Total RP 2 : Documentos - [|cffb1997fZuldazarWoW|r]
+## Title-deDE: Total RP 2 : Dokumente - [|cffb1997fZuldazarWoW|r]
+## Author: Telkostrasz
+## Notes: Documents management
+## Notes-frFR: Gestion des documents
+## Notes-esES: Control de documentos
+## Notes-deDE: Verwaltet die Dokumente
+## URL: http://trp2.forumotion.com
+## RequiredDeps: totalRP2
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariables: TRP2_Module_Documents
+totalRP2_Documents_Main.lua
