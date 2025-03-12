@@ -4,6 +4,9 @@ Feel free to download all the repository or download an individual Addon in our 
 
 [ZuldazarWoW Downloads Hub](https://www.zuldazarwow.com/downloads)
 
+Check each addon description Here [Addon List](https://github.com/ZuldazarWoW/addons-wotlk/blob/main/Directory.md)
+
+
 ---
 ### How to publish a new Addon not listed
 1. Create a Fork from this repository
